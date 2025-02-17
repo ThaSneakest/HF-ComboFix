@@ -1,0 +1,8 @@
+The copyright to dumphive is markus Stephany, merkes_at_mirkes.de
+(C) 2000-2004 M. Stephany (BSD licensed)
+Microsoft, Windows, Windows NT are trademarks of Microsoft Corporation.
+NT is a trademark of Northern Telecom Limited.
+** Credits:
+- To the unknown author of winreg.txt
+- Petter Nordahl hagen, whose source code chntpw has me very helpful
+   (http://home.eunet.ho/ ~ pnordahl)

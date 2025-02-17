@@ -1,0 +1,1 @@
+-k * and -preg"\\(winlogon|svchost|csrss|smss|wininit|services|lsass|spoolsv|alg|dwm|lsm|taskhost|dllhost)\.exe$" not -preg"\\system32\\[^\\]*$"

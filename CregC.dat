@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"combofix"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce]
+"combofix"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment]
+"ComSpec"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,63,6d,64,2e,65,78,65,00
+
+[-HKEY_CLASSES_ROOT\.vir]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\svchost ]
+
