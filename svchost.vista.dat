@@ -1,0 +1,17 @@
+termsvcs	REG_MULTI_SZ   	TermService
+WerSvcGroup	REG_MULTI_SZ   	wersvc
+swprv	REG_MULTI_SZ   	swprv
+rpcss	REG_MULTI_SZ   	RpcSs
+regsvc	REG_MULTI_SZ   	RemoteRegistry
+wcssvc	REG_MULTI_SZ   	WcsPlugInService
+DcomLaunch	REG_MULTI_SZ   	PlugPlay DcomLaunch
+wdisvc	REG_MULTI_SZ   	WdiServiceHost
+sdrsvc	REG_MULTI_SZ   	sdrsvc
+imgsvc	REG_MULTI_SZ   	StiSvc
+secsvcs	REG_MULTI_SZ   	WinDefend
+AxInstSVGroup	REG_MULTI_SZ   	AxInstSV
+iissvcs	REG_MULTI_SZ   	w3svc was
+apphost	REG_MULTI_SZ   	apphostsvc
+NetworkServiceNetworkRestricted	REG_MULTI_SZ   	PolicyAgent
+LocalServiceNoNetwork	REG_MULTI_SZ   	PLA DPS BFE mpssvc ehstart
+GPSvcGroup	REG_MULTI_SZ   	GPSvc

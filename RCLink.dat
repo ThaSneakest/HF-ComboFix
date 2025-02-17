@@ -1,0 +1,112 @@
+BR-PTHOME0 WinXPHome/Install/310994/WIN98MeXP/PT-BR/WinXP_BR_PER_BF.EXE
+BR-PTHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/PT-BR/winxpsp1_br_per_bf.exe
+BR-PTHOME2 6/8/a/68afe0e0-f8a7-47db-b947-e2ea2d6ca47a/WindowsXP-KB310994-SP2-Home-BootDisk-PTB.exe
+BR-PTPRO0 whistler/Install/310994/WIN98MeXP/PT-BR/WinXP_BR_PRO_BF.EXE
+BR-PTPRO1 whistler/Install/SP1/W98NT42KMeXP/PT-BR/winxpsp1_br_pro_bf.exe
+BR-PTPRO2 d/3/7/d375a36b-c1ed-4b4f-815c-cb16f1452676/WindowsXP-KB310994-SP2-Pro-BootDisk-PTG.exe
+
+CNHOME0 WinXPHome/Install/310994/WIN98MeXP/CN/WinXP_CN_HOM_BF.exe
+CNHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/CN/winxpsp1_cn_hom_bf.exe
+CNHOME2 9/8/3/983be23a-e221-4d6f-9b07-efde0f2f10de/WindowsXP-KB310994-SP2-Home-BootDisk-CHS.exe
+CNPRO0 whistler/Install/310994/WIN98MeXP/CN/WinXP_CN_PRO_BF.exe
+CNPRO1 whistler/Install/SP1/W98NT42KMeXP/CN/winxpsp1_cn_pro_bf.exe
+CNPRO2 6/4/c/64c246ff-752a-4174-824f-426a78def173/WindowsXP-KB310994-SP2-Pro-BootDisk-CHS.exe
+
+CSHOME0 WinXPHome/Install/310994/WIN98MeXP/CS/WinXP_CS_PER_BF.EXE
+CSHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/CS/winxpsp1_cs_hom_bf.exe
+CSHOME2 2/5/5/25530c36-4de4-446f-9088-8c707967fc7b/WindowsXP-KB310994-SP2-Home-BootDisk-CSY.exe
+CSPRO0 whistler/Install/310994/WIN98MeXP/CS/WinXP_CS_PRO_BF.EXE
+CSPRO1 whistler/Install/SP1/W98NT42KMeXP/CS/winxpsp1_cs_pro_bf.exe
+CSPRO2 a/5/e/a5e115b8-5acd-4798-b3c4-cb84d4b40dc2/WindowsXP-KB310994-SP2-Pro-BootDisk-CSY.exe
+
+DEHOME0 WinXPHome/Install/310994/WIN98MeXP/DE/WinXP_DE_HOM_BF.EXE
+DEHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/DE/winxpsp1_de_hom_bf.exe
+DEHOME2 4/6/b/46b7379b-db21-4b10-a9bd-ad76b3d02126/WindowsXP-KB310994-SP2-Home-BootDisk-DEU.exe
+DEPRO0 whistler/Install/310994/WIN98MeXP/DE/WinXP_DE_PRO_BF.EXE
+DEPRO1 whistler/Install/SP1/W98NT42KMeXP/DE/winxpsp1_de_pro_bf.exe
+DEPRO2 7/3/0/7309114e-39b9-4416-a17d-8b8a4a55baf0/WindowsXP-KB310994-SP2-Pro-BootDisk-DEU.exe
+
+ENHOME0 WinXPHome/Install/310994/WIN98MeXP/EN-US/WinXP_EN_HOM_BF.EXE
+ENHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/EN-US/winxpsp1_en_hom_bf.exe
+ENHOME2 e/2/d/e2df3275-51b0-47d9-bb42-a69c80f98333/WindowsXP-KB310994-SP2-Home-BootDisk-ENU.exe
+ENPRO0 whistler/Install/310994/WIN98MeXP/EN-US/WinXP_EN_PRO_BF.EXE
+ENPRO1 whistler/Install/SP1/W98NT42KMeXP/EN-US/winxpsp1_en_pro_bf.exe
+ENPRO2 a/8/9/a894bc9a-b4ff-48f1-a94d-6491508dbd20/WindowsXP-KB310994-SP2-Pro-BootDisk-ENU.exe
+
+ESHOME0 WinXPHome/Install/310994/WIN98MeXP/ES/WinXP_ES_HOM_BF.exe
+ESHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/ES/winxpsp1_es_hom_bf.exe
+ESHOME2 9/d/2/9d2e17a3-cbf0-4bcf-9ab7-02cecbaadab8/WindowsXP-KB310994-SP2-Home-BootDisk-ESN.exe
+ESPRO0 whistler/Install/310994/WIN98MeXP/ES/WinXP_ES_PRO_BF.exe
+ESPRO1 whistler/Install/SP1/W98NT42KMeXP/ES/winxpsp1_es_pro_bf.exe
+ESPRO2 4/c/9/4c9123a6-676f-4884-8185-223de365fe97/WindowsXP-KB310994-SP2-Pro-BootDisk-ESN.exe
+
+FIHOME0 WinXPHome/Install/310994/WIN98MeXP/FI/WinXP_FI_PER_BF.exe
+FIHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/FI/winxpsp1_fi_hom_bf.exe
+FIHOME2 1/6/7/167076a0-cc41-40c3-b896-e146886574bb/WindowsXP-KB310994-SP2-Home-BootDisk-FIN.EXE
+FIPRO0 whistler/Install/310994/WIN98MeXP/FI/WinXP_FI_PRO_BF.exe
+FIPRO1 whistler/Install/SP1/W98NT42KMeXP/FI/winxpsp1_fi_pro_bf.exe
+FIPRO2 c/4/c/c4cc48ba-45c4-4412-bff0-d229d70cabc3/WindowsXP-KB310994-SP2-Pro-BootDisk-FIN.EXE
+
+FRHOME0 WinXPHome/Install/310994/WIN98MeXP/FR/WinXP_FR_PER_BF.EXE
+FRHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/FR/winxpsp1_fr_per_bf.exe
+FRHOME2 b/f/4/bf44c586-d0d1-475f-95da-c6a6a8f02453/WindowsXP-KB310994-SP2-Home-BootDisk-FRA.exe
+FRPRO0 whistler/Install/310994/WIN98MeXP/FR/WinXP_FR_PRO_BF.EXE
+FRPRO1 whistler/Install/SP1/W98NT42KMeXP/FR/winxpsp1_fr_pro_bf.exe
+FRPRO2 4/0/f/40f34711-1d4f-4bd2-bf9e-f4bbe894fbd0/WindowsXP-KB310994-SP2-Pro-BootDisk-FRA.exe
+
+ITHOME0 WinXPHome/Install/310994/WIN98MeXP/IT/WinXP_IT_HOM_BF.EXE
+ITHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/IT/winxpsp1_it_hom_bf.exe
+ITHOME2 4/5/4/45408f6e-9791-4344-8f92-6d3907c343af/WindowsXP-KB310994-SP2-Home-BootDisk-ITA.exe
+ITPRO0 whistler/Install/310994/WIN98MeXP/IT/WinXP_IT_PRO_BF.EXE
+ITPRO1 whistler/Install/SP1/W98NT42KMeXP/IT/winxpsp1_it_pro_bf.exe
+ITPRO2 6/f/1/6f1bc9ba-6aba-4206-a84f-4f47b9cb4f66/WindowsXP-KB310994-SP2-Pro-BootDisk-ITA.exe
+
+NLHOME0 WinXPHome/Install/310994/WIN98MeXP/NL/WinXP_NL_HOM_BF.exe
+NLHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/NL/winxpsp1_nl_hom_bf.exe
+NLHOME2 4/1/1/4119f467-ab34-4ef3-bca7-d22b447edd9e/WindowsXP-KB310994-SP2-Home-BootDisk-NLD.exe
+NLPRO0 whistler/Install/310994/WIN98MeXP/NL/WinXP_NL_PRO_BF.exe
+NLPRO1 whistler/Install/SP1/W98NT42KMeXP/NL/winxpsp1_nl_pro_bf.exe
+NLPRO2 7/b/9/7b9dd1cf-13a9-4cbd-ae99-6814892ceb0b/WindowsXP-KB310994-SP2-Pro-BootDisk-NLD.exe
+
+PLHOME0 WinXPHome/Install/310994/WIN98MeXP/PL/WinXP_PL_PER_BF.EXE
+PLHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/PL/winxpsp1_pl_hom_bf.exe
+PLHOME2 e/c/3/ec3ce1a0-e225-4748-b119-b89f0635903b/WindowsXP-KB310994-SP2-Home-BootDisk-PLK.exe
+PLPRO0 whistler/Install/310994/WIN98MeXP/PL/WinXP_PL_PRO_BF.EXE
+PLPRO1 whistler/Install/SP1/W98NT42KMeXP/PL/winxpsp1_pl_pro_bf.exe
+PLPRO2 f/d/5/fd5479f9-2574-4ca7-a50b-902b9f0cd6a8/WindowsXP-KB310994-SP2-Pro-BootDisk-PLK.exe
+
+PTHOME0 WinXPHome/Install/310994/WIN98MeXP/PT/WinXP_PT_PER_BF.EXE
+PTHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/PT/winxpsp1_pt_hom_bf.exe
+PTHOME2 d/0/6/d06635ed-dd15-4c19-9a67-7320d9dd2d7f/WindowsXP-KB310994-SP2-Home-BootDisk-PTG.exe
+PTPRO0 whistler/Install/310994/WIN98MeXP/PT/WinXP_PT_PRO_BF.EXE
+PTPRO1 whistler/Install/SP1/W98NT42KMeXP/PT/winxpsp1_pt_pro_bf.exe
+PTPRO2 0/c/0/0c0d651d-2e82-4b51-9f15-7d78e8a0420a/WindowsXP-KB310994-SP2-Pro-BootDisk-PTB.exe
+
+TWHOME0 WinXPHome/Install/310994/WIN98MeXP/TW/WinXP_TW_HOM_BF.exe
+TWHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/TW/winxpsp1_tw_hom_bf.exe
+TWHOME2 6/6/d/66dfb0c0-52dc-4f3b-9df9-4ff8fee58f21/WindowsXP-KB310994-SP2-Home-BootDisk-CHT.exe
+TWPRO0 whistler/Install/310994/WIN98MeXP/TW/WinXP_TW_PRO_BF.exe
+TWPRO1 whistler/Install/SP1/W98NT42KMeXP/TW/winxpsp1_tw_pro_bf.exe
+TWPRO2 1/6/1/1613d0a5-ec8f-498c-8e16-3efd063c6327/WindowsXP-KB310994-SP2-Pro-BootDisk-CHT.exe
+
+DAHOME0 WinXPHome/Install/310994/WIN98MeXP/DA/WinXP_DA_PER_BF.EXE
+DAHOME1 WinXPHome/Install/SP1/WIN98MeXP/DA/winxpsp1_da_hom_bf.exe
+DAHOME2 d/b/f/dbf5b24c-6bc9-41bf-8679-c9f3c231c92a/WindowsXP-KB310994-SP2-Home-BootDisk-DAN.exe
+DAHPRO0 whistler/Install/310994/WIN98MeXP/DA/WinXP_DA_PRO_BF.EXE
+DAHPRO1 whistler/Install/SP1/W98NT42KMeXP/DA/winxpsp1_da_pro_bf.exe
+DAHPRO2 0/3/2/03254188-edc0-4813-9112-8b1541224501/WindowsXP-KB310994-SP2-Pro-BootDisk-DAN.exe
+
+NORHOME0 WinXPHome/Install/310994/WIN98MeXP/NO/WinXP_NO_PER_BF.EXE
+NORHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/NO/winxpsp1_no_hom_bf.exe
+NORHOME0 6/4/a/64a0df32-efe7-4fac-af06-b0028a5c696a/WindowsXP-KB310994-SP2-Home-BootDisk-NOR.exe
+NORPRO0 whistler/Install/310994/WIN98MeXP/NO/WinXP_NO_PRO_BF.EXE
+NORPRO1 whistler/Install/SP1/W98NT42KMeXP/NO/winxpsp1_no_pro_bf.exe
+NORPRO2 f/3/5/f35225d9-3f36-4fd8-9262-9220634f3e15/WindowsXP-KB310994-SP2-Pro-BootDisk-NOR.exe
+
+SVEHOME0 WinXPHome/Install/310994/WIN98MeXP/SV/WinXP_SV_PER_BF.EXE
+SVEHOME1 WinXPHome/Install/SP1/W98NT42KMeXP/SV/winxpsp1_sv_hom_bf.exe
+SVEHOME2 9/1/e/91e06ffe-f133-47fd-a0b4-5bc4ca6e773b/WindowsXP-KB310994-SP2-Home-BootDisk-SVE.exe
+SVEPRO0 whistler/Install/310994/WIN98MeXP/SV/WinXP_SV_PRO_BF.EXE
+SVEPRO1 whistler/Install/SP1/W98NT42KMeXP/SV/winxpsp1_sv_pro_bf.exe
+SVEPRO2 c/b/5/cb5cdc04-e367-4445-b4c0-5318f3d7dd48/WindowsXP-KB310994-SP2-Pro-BootDisk-SVE.exe
+

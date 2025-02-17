@@ -1,0 +1,22 @@
+RPCSS	REG_MULTI_SZ   	RpcEptMapper RpcSs
+defragsvc	REG_MULTI_SZ   	defragsvc
+WerSvcGroup	REG_MULTI_SZ   	wersvc
+LocalServiceNoNetwork	REG_MULTI_SZ   	DPS PLA BFE mpssvc WwanSvc
+termsvcs	REG_MULTI_SZ   	TermService
+swprv	REG_MULTI_SZ   	swprv
+LocalServicePeerNet	REG_MULTI_SZ   	PNRPSvc p2pimsvc p2psvc PnrpAutoReg
+NetworkServiceAndNoImpersonation	REG_MULTI_SZ   	KtmRm
+regsvc	REG_MULTI_SZ   	RemoteRegistry
+LocalServiceAndNoImpersonation	REG_MULTI_SZ   	SSDPSRV upnphost SCardSvr TBS FontCache fdrespub AppIDSvc QWAVE wcncsvc Mcx2Svc SensrSvc
+DcomLaunch	REG_MULTI_SZ   	Power PlugPlay DcomLaunch
+NetworkServiceNetworkRestricted	REG_MULTI_SZ   	PolicyAgent
+sdrsvc	REG_MULTI_SZ   	sdrsvc
+WbioSvcGroup	REG_MULTI_SZ   	WbioSrvc
+imgsvc	REG_MULTI_SZ   	StiSvc
+wcssvc	REG_MULTI_SZ   	WcsPlugInService
+AxInstSVGroup	REG_MULTI_SZ   	AxInstSV
+secsvcs	REG_MULTI_SZ   	WinDefend
+bthsvcs	REG_MULTI_SZ   	bthserv
+PeerDist	REG_MULTI_SZ   	PeerDistSvc
+LocalServiceAndNoImpersonation	REG_MULTI_SZ   	SSDPSRV upnphost SCardSvr TBS fdrespub AppIDSvc QWAVE wcncsvc Mcx2Svc SensrSvc
+GPSvcGroup	REG_MULTI_SZ   	GPSvc

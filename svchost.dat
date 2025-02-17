@@ -1,0 +1,15 @@
+httpfilter	REG_MULTI_SZ   	httpfilter
+localservice	REG_MULTI_SZ   	alerter webclient lmhosts remoteregistry upnphost ssdpsrv
+networkservice	REG_MULTI_SZ   	dnscache
+dcomlaunch	REG_MULTI_SZ   	dcomlaunch termservice
+rpcss	REG_MULTI_SZ   	rpcss
+imgsvc	REG_MULTI_SZ   	stisvc
+termsvcs	REG_MULTI_SZ   	termservice
+wudfservicegroup	REG_MULTI_SZ   	wudfsvc
+bitsgroup	REG_MULTI_SZ   	bits
+wugroup	REG_MULTI_SZ   	wuauserv
+bthsvcs	REG_MULTI_SZ   	BthServ
+Usnsvc	REG_MULTI_SZ   	usnsvc
+eapsvcs	REG_MULTI_SZ   	eaphost
+dot3svc	REG_MULTI_SZ   	dot3svc
+WINRM	REG_MULTI_SZ   	WINRM

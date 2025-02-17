@@ -1,0 +1,50 @@
+REGEDIT4
+
+; [HKEY_CURRENT_USER\Control Panel\International]
+; "iDate"="2"
+; "iMeasure"="0"
+; "iTime"="1"
+; "iTLZero"="1"
+; "sDate"="-"
+; "sLongDate"="yyyy-MM-dd"
+; "sShortDate"="yyyy-MM-dd"
+; "sTimeFormat"="HH:mm"
+; "iCountry"="1"
+; "iDigits"="2"
+; "iLZero"="1"
+; "sDecimal"="."
+; "sThousand"=","
+; "sTime"=":"
+; 
+; [HKEY_USERS\.DEFAULT\Control Panel\International]
+; "iDate"="2"
+; "iMeasure"="0"
+; "iTime"="1"
+; "iTLZero"="1"
+; "sDate"="-"
+; "sLongDate"="yyyy-MM-dd"
+; "sShortDate"="yyyy-MM-dd"
+; "sTimeFormat"="HH:mm"
+; "iCountry"="1"
+; "iDigits"="2"
+; "iLZero"="1"
+; "sDecimal"="."
+; "sThousand"=","
+; "sTime"=":"
+
+[HKEY_CURRENT_USER\software\microsoft\command processor]
+"autorun"=-
+"EnableExtensions"=dword:00000001
+"DelayedExpansion"=dword:00000000
+;"CompletionChar"=dword:0000001A
+"EnableExtensions"=dword:00000001
+;"PathCompletionChar"=dword:0000001A
+
+[HKEY_LOCAL_MACHINE\software\microsoft\command processor]
+"autorun"=-
+"EnableExtensions"=dword:00000001
+"DelayedExpansion"=dword:00000000
+;"CompletionChar"=dword:0000001A
+"EnableExtensions"=dword:00000001
+;"PathCompletionChar"=dword:0000001A
+

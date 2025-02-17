@@ -1,0 +1,1142 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\CLSID\{603D3801-BD81-11d0-A3A5-00C04FD706EC}\InProcServer32]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,62,72,6f,77,73,65,75,69,2e,64,6c,6c,00
+
+[-HKCU\Software\Classes\CLSID\{42aedc87-2188-41fd-b9a3-0c966feabec1}]
+[HKEY_CLASSES_ROOT\CLSID\{42aedc87-2188-41fd-b9a3-0c966feabec1}\InProcServer32]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,68,64,6f,63,76,77,2e,64,6c,6c,00
+
+[HKEY_CLASSES_ROOT\CLSID\{E6FB5E20-DE35-11CF-9C87-00AA005127ED}\InProcServer32]
+@=hex(2):25,53,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,77,65,62,63,68,65,63,6b,2e,64,6c,6c,00
+
+[-HKEY_CLASSES_ROOT\CLSID\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}]
+[HKEY_CLASSES_ROOT\CLSID\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}]
+@="Search Results Folder"
+"LocalizedString"=hex(2):40,25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,53,48,45,4c,4c,33,32,2e,64,6c,6c,2c,2d,33,30,35,32,30,00
+"IntroText"=hex(2):40,25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,53,48,45,4c,4c,33,32,2e,64,6c,6c,2c,2d,33,31,37,35,34,00
+[HKEY_CLASSES_ROOT\CLSID\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}\DefaultIcon]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,53,48,45,4c,4c,33,32,2e,64,6c,6c,2c,2d,31,33,34,00
+[HKEY_CLASSES_ROOT\CLSID\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}\InProcServer32]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,53,48,45,4c,4c,33,32,2e,64,6c,6c,00
+"ThreadingModel"="Apartment"
+[HKEY_CLASSES_ROOT\CLSID\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}\ShellFolder]
+"Attributes"=dword:20180000
+
+[HKEY_CLASSES_ROOT\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,53,48,45,4c,4c,33,32,2e,64,6c,6c,00
+
+[HKEY_CLASSES_ROOT\.bfc\shellnew]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,72,75,6e,64,6c,6c,33,32,2e,65,78,65,20,25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,68,65,6c,6c,33,32,2e,64,6c,6c,2c,4f,70,65,6e,41,73,5f,52,75,6e,44,4c,4c,20,25,31,00
+"Command"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,72,75,6e,64,6c,6c,33,32,2e,65,78,65,20,25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,79,6e,63,75,69,2e,64,6c,6c,2c,42,72,69,65,66,63,61,73,65,5f,43,72,65,61,74,65,20,25,32,21,64,21,20,25,31,00
+
+[HKEY_CLASSES_ROOT\.lnk\shellnew]
+"Command"="rundll32.exe appwiz.cpl,NewLinkHere %1"
+
+[HKEY_CLASSES_ROOT\dunfile\shell\open\command]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,52,55,4e,44,4c,4c,33,32,2e,45,58,45,20,4e,45,54,53,48,45,4c,4c,2e,44,4c,4c,2c,49,6e,76,6f,6b,65,44,75,6e,46,69,6c,65,20,25,31,00
+
+[HKEY_CLASSES_ROOT\ftp\shell\open\ddeexec\Application]
+@=-
+
+[HKEY_CLASSES_ROOT\htmlfile\shell\opennew\ddeexec\Application]
+@=-
+
+[HKEY_CLASSES_ROOT\http\shell\open\ddeexec\Application]
+@=-
+
+[HKEY_CLASSES_ROOT\inffile\shell\install\command]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,72,75,6e,64,6c,6c,33,32,2e,65,78,65,20,73,65,74,75,70,61,70,69,2c,49,6e,73,74,61,6c,6c,48,69,6e,66,53,65,63,74,69,6f,6e,20,44,65,66,61,75,6c,74,49,6e,73,74,61,6c,6c,20,31,33,32,20,25,31,00
+
+[HKEY_CLASSES_ROOT\unknown\shell\openas\command]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,72,75,6e,64,6c,6c,33,32,2e,65,78,65,20,25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,68,65,6c,6c,33,32,2e,64,6c,6c,2c,4f,70,65,6e,41,73,5f,52,75,6e,44,4c,4c,20,25,31,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoDriveAutoRun"=dword:03FFFFFF
+"NoDriveTypeAutoRun"=dword:00000143
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoDriveAutoRun"=dword:03FFFFFF
+"NoDriveTypeAutoRun"=dword:00000143
+
+[HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\policies\system]
+"EnableLUA"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\ClassicViewState]
+"Type"="checkbox"
+"Text"="@shell32.dll,-30506"
+"HKeyRoot"=dword:80000001
+"RegPath"="Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"
+"ValueName"="ClassicViewState"
+"CheckedValue"=dword:00000000
+"UncheckedValue"=dword:00000001
+"DefaultValue"=dword:00000000
+"HelpID"="shell.hlp#51076"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks]
+"{AEB6717E-7E19-11d0-97EE-00C04FD91972}"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost\LocalService]
+"CoInitializeSecurityParam"=dword:00000001
+"AuthenticationCapabilities"=dword:00002000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost\netsvcs]
+"CoInitializeSecurityParam"=dword:00000001
+"AuthenticationCapabilities"=dword:00003020
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\MSCONFIG.EXE]
+@=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,70,63,68,65,61,6c,74,68,5c,68,65,6c,70,63,74,72,5c,42,69,6e,61,72,69,65,73,5c,4d,53,43,4f,4e,46,49,47,2e,45,58,45,00
+
+[HKEY_LOCAL_MACHINE\software\microsoft\windows nt\currentversion\image file execution options\enc98.EXE]
+"Debugger"=-
+
+[HKEY_LOCAL_MACHINE\software\microsoft\windows nt\currentversion\image file execution options\ua80.EXE]
+"Debugger"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Setup\RecoveryConsole]
+"SetCommand"=dword:00000001
+"SecurityLevel"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD]
+"Group"="TDI"
+"ImagePath"="\\SystemRoot\\System32\\drivers\\afd.sys"
+"Start"=dword:00000001
+"Type"=dword:00000001
+"ErrorControl"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\ALG]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,61,6c,67,2e,65,78,65,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\AppMgmt]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\AppMgmt\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,61,70,70,6d,67,6d,74,73,2e,64,6c,6c,00
+"ServiceDllUnloadOnStop"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AsyncMac]
+"Type"=dword:00000001
+"Start"=dword:00000003
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):73,79,73,74,65,6d,33,32,5c,44,52,49,56,45,52,53,5c,61,73,79,6e,63,6d,61,63,2e,73,79,73,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BITS]
+"Type"=dword:00000110
+"Start"=dword:00000003
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"DisplayName"="BITS"
+"DependOnService"=hex(7):52,70,63,53,73,00,00
+; "DependOnGroup"=hex(7):00
+"ObjectName"="LocalSystem"
+"FailureActions"=hex:00,00,00,00,00,00,00,00,00,00,00,00,03,00,00,00,68,e3,0c,00,01,00,00,00,60,ea,00,00,01,00,00,00,60,ea,00,00,01,00,00,00,60,ea,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BITS\Parameters]
+"ServiceDll"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,71,6d,67,72,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Browser]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Browser\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,62,72,6f,77,73,65,72,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ClipSrv]
+"Type"=dword:00000010
+"Start"=dword:00000003
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,63,6c,69,70,73,72,76,2e,65,78,65,00
+"ObjectName"="LocalSystem"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\COMSysApp]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,64,6c,6c,68,6f,73,74,2e,65,78,65,20,2f,50,72,6f,63,65,73,73,69,64,3a,7b,30,32,44,34,42,33,46,31,2d,46,44,38,38,2d,31,31,44,31,2d,39,36,30,44,2d,30,30,38,30,35,46,43,37,39,32,33,35,7d,00
+"Start"=dword:00000003
+"Type"=dword:00000010
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CryptSvc]
+"DependOnService"=hex(7):52,70,63,53,73,00,00
+"DisplayName"="CryptSvc"
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"ObjectName"="LocalSystem"
+"Start"=dword:00000002
+"Type"=dword:00000020
+"ServiceSidType"=-
+"FailureActions"=-
+"RequiredPrivileges"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CryptSvc\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,63,72,79,70,74,73,76,63,2e,64,6c,6c,00
+"ServiceMain"="CryptServiceMain"
+"ServiceDllUnloadOnStop"=-
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\CiSvc]
+"DependOnService"=hex(7):52,50,43,53,53,00,00
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,63,69,73,76,63,2e,65,78,65,00
+"ObjectName"="LocalSystem"
+"Start"=dword:00000003
+"Type"=dword:00000120
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\CiSvc\Enum]
+"0"="Root\\LEGACY_CISVC\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ClipSrv]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,63,6c,69,70,73,72,76,2e,65,78,65,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DcomLaunch]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,44,63,6f,6d,4c,61,75,6e,63,68,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dhcp]
+"DependOnService"=hex(7):54,63,70,69,70,00,41,66,64,00,4e,65,74,42,54,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DMusic]
+"Type"=dword:00000001
+"Start"=dword:00000003
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):73,79,73,74,65,6d,33,32,5c,64,72,69,76,65,72,73,5c,44,4d,75,73,69,63,2e,73,79,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\dmserver]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\dmserver\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,64,6d,73,65,72,76,65,72,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\ERSvc]
+"DependOnService"=hex(7):52,70,63,53,73,00,00
+"ErrorControl"=dword:00000000
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"ObjectName"="LocalSystem"
+"Start"=dword:00000002
+"Type"=dword:00000020
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\ERSvc\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,65,72,73,76,63,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\ERSvc\Enum]
+"0"="Root\\LEGACY_ERSVC\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\helpsvc]
+"Type"=dword:00000020
+"Start"=dword:00000002
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HidServ\Parameters]
+"serviceDlL"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,68,69,64,73,65,72,76,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ImapiService]
+"ImagePath"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,69,6d,61,70,69,2e,65,78,65,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\IPSec]
+"Type"=dword:00000001
+"Start"=dword:00000001
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):73,79,73,74,65,6d,33,32,5c,44,52,49,56,45,52,53,5c,69,70,73,65,63,2e,73,79,73,00
+"Group"="PNP_TDI"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanserver]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanserver\parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,72,76,73,76,63,2e,64,6c,6c,00
+"Start"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\LmHosts]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,4c,6f,63,61,6c,53,65,72,76,69,63,65,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\LmHosts\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,6c,6d,68,73,76,63,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Messenger]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Messenger\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,6d,73,67,73,76,63,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDProxy]
+"DisplayName"=hex(7):4e,44,49,53,20,50,72,6f,78,79,00,00
+"ErrorControl"=dword:00000001
+"Group"="PNP_TDI"
+"Start"=dword:00000003
+"Type"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NtmsSvc]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"Start"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NtmsSvc\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,6e,74,6d,73,73,76,63,2e,64,6c,6c,00
+ 
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\PCIDump]
+"Imagepath"=-
+"ErrorControl"=dword:00000000
+"Group"="PCI Configuration"
+"Start"=dword:00000001
+"Type"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PolicyAgent]
+"Type"=dword:00000020
+"Start"=dword:00000002
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,6c,73,61,73,73,2e,65,78,65,00
+"DisplayName"="IPSEC Services"
+"DependOnService"=hex(7):52,50,43,53,53,00,54,63,70,69,70,00,49,50,53,65,63,00,00
+"DependOnGroup"=hex(7):00
+"ObjectName"="LocalSystem"
+"PolstoreDllRegisterVersion"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\ProtectedStorage]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,6c,73,61,73,73,2e,65,78,65,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RemoteAccess]
+"Type"=dword:00000020
+"Start"=dword:00000004
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"DisplayName"="Routing and Remote Access"
+"DependOnService"=hex(7):52,70,63,53,53,00,00
+"DependOnGroup"=hex(7):4e,65,74,42,49,4f,53,47,72,6f,75,70,00,00
+"ObjectName"="LocalSystem"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RpcSs]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,72,70,63,73,73,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\seclogon]
+"DisplayName"="Secondary Logon"
+"ErrorControl"=dword:00000000
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"Objectname"="LocalSystem"
+"Start"=dword:00000002
+"Type"=dword:00000120
+"RequiredPrivileges"=-
+"FailureActions"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\seclogon\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,65,63,6c,6f,67,6f,6e,2e,64,6c,6c,00
+"ServiceMain"="SvcEntry_Seclogon"
+"ServiceDllUnloadOnStop"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Schedule]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SharedAccess]
+"Type"=dword:00000020
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SharedAccess\Enum]
+"0"="Root\\LEGACY_SHAREDACCESS\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SharedAccess\Epoch]
+"Epoch"=dword:00002cd5
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SharedAccess\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,69,70,6e,61,74,68,6c,70,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Spooler]
+"DependOnService"=hex(7):52,50,43,53,53,00,00
+"ErrorControl"=dword:00000001
+"FailureActions"=hex:80,51,01,00,00,00,00,00,00,00,00,00,03,00,00,00,e8,47,0c,00,01,00,00,00,60,ea,00,00,01,00,00,00,60,ea,00,00,00,00,00,00,00,00,00,00
+"Group"="SpoolerGroup"
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,70,6f,6f,6c,73,76,2e,65,78,65,00
+"ObjectName"="LocalSystem"
+"Start"=dword:00000002
+"Type"=dword:00000110
+"ServiceSidType"=-
+"RequiredPrivileges"=-
+"FailureActions"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Spooler\Performance]
+"Close"="PerfClose"
+"Collect"="PerfCollect"
+"Collect Timeout"=dword:000007d0
+"Library"="winspool.drv"
+"Object List"="1450"
+"Open"="PerfOpen"
+"Open Timeout"=dword:00000fa0
+"WbemAdapFileSignature"=hex:bd,83,ab,a6,1e,8a,cc,c8,d9,ff,b8,69,f2,94,18,ce,00
+"WbemAdapFileTime"=hex:00,29,52,e3,7a,79,c4,01
+"WbemAdapFileSize"=dword:00023c00
+"WbemAdapStatus"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Spooler\Enum]
+"0"="Root\\LEGACY_SPOOLER\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\srservice]
+"Type"=dword:00000020
+"Start"=dword:00000002
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\srservice\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,72,73,76,63,2e,64,6c,6c
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\swmidi]
+"ImagePath"=hex(2):73,79,73,74,65,6d,33,32,5c,64,72,69,76,65,72,73,5c,73,77,6d,69,64,69,2e,73,79,73,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TermService]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,44,43,6f,6d,4c,61,75,6e,63,68,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TermService\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,74,65,72,6d,73,72,76,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TlntSvr]
+"Start"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\TrkWks]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\TrkWks\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,74,72,6b,77,6b,73,2e,64,6c,6c,00
+
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\UPS\Parameters]
+[-HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\UPS\Parameters]
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\UPS]
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,75,70,73,2e,65,78,65,00
+"ObjectName"="NT AUTHORITY\\LocalService"
+"Start"=dword:00000003
+"Type"=dword:00000010
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\VSS]
+"Start"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\W32Time]
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\W32Time\Parameters]
+"ServiceMain"="SvchostEntry_W32Time"
+"ServiceDll"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,77,33,32,74,69,6d,65,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\winmgmt]
+"Type"=dword:00000020
+"Start"=dword:00000002
+"ErrorControl"=dword:00000000
+"ImagePath"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"DependOnService"=hex(7):52,50,43,53,53,00,00
+"ObjectName"="LocalSystem"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\winmgmt\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,77,62,65,6d,5c,57,4d,49,73,76,63,2e,64,6c,6c,00
+"ServiceMain"="ServiceMain"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinTrust\SubjectPackages\MS Subjects 1]
+"$DLL"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,4d,73,53,69,70,31,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinTrust\SubjectPackages\MS Subjects 2]
+"$DLL"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,4d,73,53,69,70,32,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinTrust\SubjectPackages\MS Subjects 3]
+"$DLL"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,4d,73,53,69,70,33,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinTrust\TrustProviders\Software Publisher]
+"$DLL"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,53,6f,66,74,50,75,62,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WmdmPmSN]
+"Start"=dword:00000003
+"ServiceDll"=hex(2):43,3a,5c,57,49,4e,44,4f,57,53,5c,73,79,73,74,65,6d,33,32,5c,6d,73,70,6d,73,6e,73,76,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WS2IFSL]
+"Start"=dword:00000001
+"Type"=dword:00000001
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):5c,53,79,73,74,65,6d,52,6f,6f,74,5c,53,79,73,74,65,6d,33,32,5c,64,72,69,76,65,72,73,5c,77,73,32,69,66,73,6c,2e,73,79,73,00
+"DisplayName"="Windows Socket 2.0 Non-IFS Service Provider Support Environment"
+"Group"="PNP_TDI"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\wscsvc]
+"Type"=dword:00000020
+"Start"=dword:00000002
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"DependOnService"=hex(7):52,70,63,53,73,00,77,69,6e,6d,67,6d,74,00,00
+"ObjectName"="LocalSystem"
+"DefaultRegistrationTTL"=-
+"DisableReplaceAddressesInConflicts"=-
+"DisableReverseAddressRegistrations"=-
+"UpdateSecurityLevel "=-
+"ServiceSidType"=-
+"FailureActions"=-
+"RequiredPrivileges"=-
+"FailureActions"=-
+"DelayedAutoStart"=-
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\wscsvc\Parameters]
+"ServiceDll"=hex(2):25,53,59,53,54,45,4d,52,4f,4f,54,25,5c,73,79,73,74,65,6d,33,32,5c,77,73,63,73,76,63,2e,64,6c,6c,00
+"ServiceDllUnloadOnStop"=-
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\wscsvc\Enum]
+"0"="Root\\LEGACY_WSCSVC\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv]
+"Type"=dword:00000020
+"Start"=dword:00000002
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"DisplayName"="Automatic Updates"
+"ObjectName"="LocalSystem"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv]
+"ImagePath"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv\Parameters]
+"ServiceDll"=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,77,75,61,75,73,65,72,76,2e,64,6c,6c
+"ServiceDllUnloadOnStop"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov]
+"DependOnService"=hex(7):52,70,63,53,73,00,00
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,76,63,68,6f,73,74,2e,65,78,65,20,2d,6b,20,6e,65,74,73,76,63,73,00
+"ObjectName"="LocalSystem"
+"Start"=dword:00000003
+"Type"=dword:00000020
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters]
+"ServiceDll"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,78,6d,6c,70,72,6f,76,2e,64,6c,6c,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Branding\http://www.microsoft.com/provisioning/Branding]
+"QueryAlias"="branding"
+"SchemaFile"="branding.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Connection\http://www.microsoft.com/provisioning/BaseEapConnectionPropertiesV1]
+"QueryAlias"="baseeapconnectionpropertiesv1"
+"SchemaFile"="baseeapconnectionpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Connection\http://www.microsoft.com/provisioning/EapConnectionPropertiesV1]
+"QueryAlias"="eapconnectionpropertiesv1"
+"SchemaFile"="eapconnectionpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Connection\http://www.microsoft.com/provisioning/MsChapV2ConnectionPropertiesV1]
+"QueryAlias"="mschapv2connectionpropertiesv1"
+"SchemaFile"="mschapv2connectionpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Connection\http://www.microsoft.com/provisioning/MsPeapConnectionPropertiesV1]
+"QueryAlias"="mspeapconnectionpropertiesv1"
+"SchemaFile"="mspeapconnectionpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Help\http://www.microsoft.com/provisioning/Help]
+"QueryAlias"="help"
+"SchemaFile"="help.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Locations]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Locations\http://www.microsoft.com/provisioning/Locations]
+"QueryAlias"="locations"
+"SchemaFile"="locations.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Master\http://www.microsoft.com/provisioning/Master]
+"QueryAlias"="master"
+"SchemaFile"="masterfile.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\Register\http://www.microsoft.com/provisioning/Register]
+"QueryAlias"="register"
+"SchemaFile"="register.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\SSID\http://www.microsoft.com/provisioning/SSID]
+"QueryAlias"="ssid"
+"SchemaFile"="ssid.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\User\http://www.microsoft.com/provisioning/BaseEapUserPropertiesV1]
+"QueryAlias"="baseeapuserpropertiesv1"
+"SchemaFile"="baseeapuserpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\User\http://www.microsoft.com/provisioning/EapUserPropertiesV1]
+"QueryAlias"="eapuserpropertiesv1"
+"SchemaFile"="eapuserpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\User\http://www.microsoft.com/provisioning/MsChapV2UserPropertiesV1]
+"QueryAlias"="mschapv2userpropertiesv1"
+"SchemaFile"="mschapv2userpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\User\http://www.microsoft.com/provisioning/MsPeapUserPropertiesV1]
+"QueryAlias"="mspeapuserpropertiesv1"
+"SchemaFile"="mspeapuserpropertiesv1.xdr"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xmlprov\Parameters\SchemaGroups\WirelessProfile\http://www.microsoft.com/provisioning/WirelessProfile]
+"QueryAlias"="wirelessprofile"
+"SchemaFile"="wirelessprofile.xdr"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HELPCTR.EXE]
+@=hex(2):25,53,79,73,74,65,6d,72,6f,6f,74,25,5c,50,43,48,65,61,6c,74,68,5c,48,65,6c,70,43,74,72,5c,42,69,6e,61,72,69,65,73,5c,48,65,6c,70,43,74,72,2e,65,78,65,00
+
+[HKEY_CLASSES_ROOT\batfile\DefaultIcon]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,68,65,6c,6c,33,32,2e,64,6c,6c,2c,2d,31,35,33,00
+
+[HKEY_CLASSES_ROOT\CLSID\{7998DC37-D3FE-487C-A60A-7701FCC70CC6}\InprocServer32]
+@=hex(2):25,73,79,73,74,65,6d,72,6f,6f,74,25,5c,73,79,73,74,65,6d,33,32,5c,77,62,65,6d,5c,72,65,70,64,72,76,66,73,2e,64,6c,6c,00
+
+[HKEY_CLASSES_ROOT\CLSID\{750fdf0e-2a26-11d1-a3ea-080036587f03}\InProcServer32]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,63,73,63,75,69,2e,64,6c,6c,00
+
+[HKEY_CLASSES_ROOT\cmdfile\DefaultIcon]
+@=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,33,32,5c,73,68,65,6c,6c,33,32,2e,64,6c,6c,2c,2d,31,35,33,00
+
+[HKEY_CLASSES_ROOT\cplfile\shell\cplopen\command]
+@="rundll32.exe shell32.dll,Control_RunDLL \"%1\",%*"
+
+[HKEY_CLASSES_ROOT\telnet\shell\open\command]
+@="rundll32.exe url.dll,TelnetProtocolHandler %l"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\apitrap.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ASSTE.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\AVSTE.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Cleanup.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\cqw32.exe]
+"ApplicationGoo"=hex:14,02,00,00,10,02,00,00,00,02,00,00,90,04,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,00,00,07,00,0b,00,00,00,00,\
+  00,07,00,0b,00,00,00,3f,00,00,00,02,00,00,00,04,00,01,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,44,00,00,00,01,00,56,00,61,00,72,00,46,00,69,\
+  00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,00,00,24,00,04,00,00,00,54,00,\
+  72,00,61,00,6e,00,73,00,6c,00,61,00,74,00,69,00,6f,00,6e,00,00,00,00,00,09,\
+  04,e4,04,f0,03,00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,00,69,00,\
+  6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,cc,03,00,00,01,00,30,00,34,00,30,\
+  00,39,00,30,00,34,00,45,00,34,00,00,00,4a,00,19,00,01,00,43,00,6f,00,6d,00,\
+  6d,00,65,00,6e,00,74,00,73,00,00,00,43,00,72,00,79,00,73,00,74,00,61,00,6c,\
+  00,20,00,53,00,51,00,4c,00,20,00,44,00,65,00,73,00,69,00,67,00,6e,00,65,00,\
+  72,00,20,00,37,00,2e,00,30,00,00,00,00,00,88,00,34,00,01,00,43,00,6f,00,6d,\
+  00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,00,53,00,65,00,\
+  61,00,67,00,61,00,74,00,65,00,20,00,53,00,6f,00,66,00,74,00,77,00,61,00,72,\
+  00,65,00,20,00,49,00,6e,00,66,00,6f,00,72,00,6d,00,61,00,74,00,69,00,6f,00,\
+  6e,00,20,00,4d,00,61,00,6e,00,61,00,67,00,65,00,6d,00,65,00,6e,00,74,00,20,\
+  00,47,00,72,00,6f,00,75,00,70,00,2c,00,20,00,49,00,6e,00,63,00,2e,00,00,00,\
+  ae,00,45,00,01,00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,\
+  00,69,00,67,00,68,00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,\
+  68,00,74,00,20,00,28,00,63,00,29,00,20,00,31,00,39,00,39,00,31,00,2d,00,31,\
+  00,39,00,39,00,10,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\divx.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\divxdec.ax]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DJSMAR00.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DRMINST.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\enc98.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\EncodeDivXExt.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\EncryptPatchVer.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\front.exe]
+"ApplicationGoo"=hex:54,09,00,00,54,02,00,00,00,02,00,00,8c,03,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,02,00,a8,11,2e,04,00,00,02,\
+  00,a8,11,2e,04,00,00,3f,00,00,00,20,00,00,00,04,00,00,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,ec,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,c8,02,00,00,\
+  01,00,30,00,30,00,30,00,30,00,30,00,34,00,62,00,30,00,00,00,38,00,10,00,01,\
+  00,43,00,6f,00,6d,00,6d,00,65,00,6e,00,74,00,73,00,00,00,4f,00,72,00,69,00,\
+  67,00,6e,00,61,00,6c,00,20,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,\
+  00,42,00,11,00,01,00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,\
+  6d,00,65,00,00,00,00,00,53,00,41,00,50,00,20,00,41,00,47,00,2c,00,20,00,57,\
+  00,61,00,6c,00,6c,00,64,00,6f,00,72,00,66,00,00,00,00,00,5a,00,19,00,01,00,\
+  46,00,69,00,6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,\
+  00,6f,00,6e,00,00,00,00,00,53,00,41,00,50,00,20,00,46,00,72,00,6f,00,6e,00,\
+  74,00,65,00,6e,00,64,00,20,00,66,00,6f,00,72,00,20,00,57,00,69,00,6e,00,64,\
+  00,6f,00,77,00,73,00,00,00,00,00,3c,00,0e,00,01,00,46,00,69,00,6c,00,65,00,\
+  56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,34,00,35,00,32,00,30,\
+  00,2e,00,32,00,2e,00,30,00,2e,00,31,00,30,00,37,00,30,00,00,00,32,00,09,00,\
+  01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,00,65,\
+  00,00,00,46,00,45,00,57,00,46,00,52,00,4f,00,4e,00,54,00,00,00,00,00,7a,00,\
+  2b,00,01,00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,\
+  00,67,00,68,00,02,00,00,00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,\
+  04,00,00,00,00,00,00,00,65,05,00,00,02,00,00,00,03,00,00,00,00,00,01,00,53,\
+  00,65,00,72,00,76,00,69,00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,\
+  33,00,00,00,23,00,54,02,00,00,00,02,00,00,8c,03,34,00,00,00,56,00,53,00,5f,\
+  00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,46,00,4f,00,\
+  00,00,00,00,bd,04,ef,fe,00,00,01,00,03,00,9e,11,26,04,00,00,03,00,9e,11,26,\
+  04,00,00,3f,00,00,00,20,00,00,00,04,00,00,00,01,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,ec,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,\
+  00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,c8,02,00,00,01,00,30,00,\
+  30,00,30,00,30,00,30,00,34,00,62,00,30,00,00,00,38,00,10,00,01,00,43,00,6f,\
+  00,6d,00,6d,00,65,00,6e,00,74,00,73,00,00,00,4f,00,72,00,69,00,67,00,6e,00,\
+  61,00,6c,00,20,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,42,00,11,\
+  00,01,00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,\
+  00,00,00,00,53,00,41,00,50,00,20,00,41,00,47,00,2c,00,20,00,57,00,61,00,6c,\
+  00,6c,00,64,00,6f,00,72,00,66,00,00,00,00,00,5a,00,19,00,01,00,46,00,69,00,\
+  6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,6e,\
+  00,00,00,00,00,53,00,41,00,50,00,20,00,46,00,72,00,6f,00,6e,00,74,00,65,00,\
+  6e,00,64,00,20,00,66,00,6f,00,72,00,20,00,57,00,69,00,6e,00,64,00,6f,00,77,\
+  00,73,00,00,00,00,00,3c,00,0e,00,01,00,46,00,69,00,6c,00,65,00,56,00,65,00,\
+  72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,34,00,35,00,31,00,30,00,2e,00,33,\
+  00,2e,00,30,00,2e,00,31,00,30,00,36,00,32,00,00,00,32,00,09,00,01,00,49,00,\
+  6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,00,65,00,00,00,46,\
+  00,45,00,57,00,46,00,52,00,4f,00,4e,00,54,00,00,00,00,00,7a,00,2b,00,01,00,\
+  4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,\
+  00,02,00,00,00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,04,00,00,00,\
+  00,00,00,00,65,05,00,00,02,00,00,00,03,00,00,00,00,00,01,00,53,00,65,00,72,\
+  00,76,00,69,00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,33,00,00,00,\
+  23,00,54,02,00,00,00,02,00,00,20,03,34,00,00,00,56,00,53,00,5f,00,56,00,45,\
+  00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,46,00,4f,00,00,00,00,00,\
+  bd,04,ef,fe,00,00,01,00,00,00,04,00,f0,03,00,00,00,00,04,00,f0,03,00,00,3f,\
+  00,00,00,00,00,00,00,04,00,01,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,7e,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,00,69,00,6c,\
+  00,65,00,49,00,6e,00,66,00,6f,00,00,00,5a,02,00,00,01,00,30,00,34,00,30,00,\
+  39,00,30,00,34,00,45,00,34,00,00,00,2e,00,07,00,01,00,43,00,6f,00,6d,00,70,\
+  00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,00,53,00,41,00,50,00,\
+  20,00,41,00,47,00,00,00,00,00,5a,00,19,00,01,00,46,00,69,00,6c,00,65,00,44,\
+  00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,6e,00,00,00,00,00,\
+  53,00,41,00,50,00,20,00,46,00,72,00,6f,00,6e,00,74,00,65,00,6e,00,64,00,20,\
+  00,66,00,6f,00,72,00,20,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,00,00,\
+  00,00,36,00,0b,00,01,00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,\
+  00,6f,00,6e,00,00,00,00,00,34,00,2e,00,30,00,2e,00,30,00,2e,00,31,00,30,00,\
+  30,00,38,00,00,00,00,00,2c,00,06,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,\
+  00,61,00,6c,00,4e,00,61,00,6d,00,65,00,00,00,46,00,52,00,4f,00,4e,00,54,00,\
+  00,00,5e,00,1d,00,01,00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,\
+  00,72,00,69,00,67,00,68,00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,\
+  67,00,68,00,74,00,20,00,a9,00,20,00,31,00,39,00,39,00,33,00,2d,00,31,00,39,\
+  00,39,00,37,00,20,00,53,00,41,00,50,00,20,00,41,00,47,00,00,00,00,00,28,00,\
+  00,00,01,00,4c,00,65,00,67,00,61,00,6c,00,54,00,72,00,61,00,64,00,02,00,00,\
+  00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,04,00,00,00,00,00,00,00,\
+  65,05,00,00,02,00,00,00,03,00,00,00,00,00,01,00,53,00,65,00,72,00,76,00,69,\
+  00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,33,00,00,00,23,00,54,02,\
+  00,00,00,02,00,00,18,03,34,00,00,00,56,00,53,00,5f,00,56,00,45,00,52,00,53,\
+  00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,46,00,4f,00,00,00,00,00,bd,04,ef,fe,\
+  00,00,01,00,00,00,04,00,dd,03,00,00,00,00,04,00,dd,03,00,00,3f,00,00,00,00,\
+  00,00,00,04,00,01,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,78,02,\
+  00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,00,69,00,6c,00,65,00,49,\
+  00,6e,00,66,00,6f,00,00,00,54,02,00,00,01,00,30,00,34,00,30,00,39,00,30,00,\
+  34,00,45,00,34,00,00,00,2e,00,07,00,01,00,43,00,6f,00,6d,00,70,00,61,00,6e,\
+  00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,00,53,00,41,00,50,00,20,00,41,00,\
+  47,00,00,00,00,00,5a,00,19,00,01,00,46,00,69,00,6c,00,65,00,44,00,65,00,73,\
+  00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,6e,00,00,00,00,00,53,00,41,00,\
+  50,00,20,00,46,00,72,00,6f,00,6e,00,74,00,65,00,6e,00,64,00,20,00,66,00,6f,\
+  00,72,00,20,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,00,00,00,00,34,00,\
+  0a,00,01,00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,\
+  00,00,00,00,00,34,00,2e,00,30,00,2e,00,30,00,2e,00,39,00,38,00,39,00,00,00,\
+  2c,00,06,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,61,\
+  00,6d,00,65,00,00,00,46,00,52,00,4f,00,4e,00,54,00,00,00,5e,00,1d,00,01,00,\
+  4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,\
+  00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,20,00,\
+  a9,00,20,00,31,00,39,00,39,00,33,00,2d,00,31,00,39,00,39,00,37,00,20,00,53,\
+  00,41,00,50,00,20,00,41,00,47,00,00,00,00,00,28,00,00,00,01,00,4c,00,65,00,\
+  67,00,61,00,6c,00,54,00,72,00,61,00,64,00,65,00,6d,00,02,00,00,00,00,00,00,\
+  00,01,00,00,00,4c,00,00,00,3c,fd,06,00,04,00,00,00,00,00,00,00,65,05,00,00,\
+  02,00,00,00,03,00,00,00,00,00,01,00,53,00,65,00,72,00,76,00,69,00,63,00,65,\
+  00,20,00,50,00,61,00,63,00,6b,00,20,00,33,00,00,00,23,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\fullsoft.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\GBROWSER.DLL]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\htmlmarq.ocx]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\htmlmm.ocx]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\install.exe]
+"ApplicationGoo"=hex:58,02,00,00,54,02,00,00,00,02,00,00,6c,07,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,05,00,05,00,07,00,a8,07,05,\
+  00,05,00,07,00,a8,07,3f,00,00,00,00,00,00,00,04,00,04,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,cc,06,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,54,03,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,42,00,30,00,00,00,18,00,00,00,01,\
+  00,43,00,6f,00,6d,00,6d,00,65,00,6e,00,74,00,73,00,00,00,4c,00,16,00,01,00,\
+  43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,\
+  00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,43,00,6f,00,\
+  72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,00,00,68,00,20,00,01,\
+  00,46,00,69,00,6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,\
+  69,00,6f,00,6e,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,\
+  00,74,00,20,00,45,00,78,00,63,00,68,00,61,00,6e,00,67,00,65,00,20,00,53,00,\
+  65,00,72,00,76,00,65,00,72,00,20,00,53,00,65,00,74,00,75,00,70,00,00,00,36,\
+  00,0b,00,01,00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,\
+  6e,00,00,00,00,00,35,00,2e,00,35,00,2e,00,31,00,39,00,36,00,30,00,2e,00,37,\
+  00,00,00,00,00,2c,00,06,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,\
+  6c,00,4e,00,61,00,6d,00,65,00,00,00,53,00,65,00,74,00,75,00,70,00,00,00,9c,\
+  00,3c,00,01,00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,\
+  69,00,67,00,68,00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,\
+  00,74,00,20,00,02,00,00,00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,\
+  05,00,00,00,00,00,00,00,65,05,00,00,02,00,00,00,03,00,00,00,02,00,00,00,53,\
+  00,65,00,72,00,76,00,69,00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,\
+  34,00,00,00,23,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ishscan.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ISSTE.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\javai.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\jvm.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\jvm_g.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\main123w.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mngreg32.exe]
+"ApplicationGoo"=hex:58,02,00,00,54,02,00,00,00,02,00,00,44,02,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,01,00,01,00,0c,00,00,00,01,\
+  00,01,00,0c,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,44,00,00,00,00,00,56,00,61,00,72,00,46,00,69,\
+  00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,00,00,24,00,04,00,00,00,54,00,\
+  72,00,61,00,6e,00,73,00,6c,00,61,00,74,00,69,00,6f,00,6e,00,00,00,00,00,09,\
+  04,b0,04,a4,01,00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,00,69,00,\
+  6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,80,01,00,00,01,00,30,00,34,00,30,\
+  00,39,00,30,00,34,00,42,00,30,00,00,00,40,00,20,00,01,00,43,00,6f,00,6d,00,\
+  70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,00,44,00,65,00,4c,\
+  00,6f,00,72,00,6d,00,65,00,20,00,4d,00,61,00,70,00,70,00,69,00,6e,00,67,00,\
+  00,00,44,00,22,00,01,00,50,00,72,00,6f,00,64,00,75,00,63,00,74,00,4e,00,61,\
+  00,6d,00,65,00,00,00,00,00,52,00,65,00,67,00,20,00,28,00,44,00,4c,00,69,00,\
+  62,00,62,00,79,00,5c,00,6d,00,73,00,66,00,29,00,00,00,00,00,34,00,14,00,01,\
+  00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,\
+  00,00,31,00,2e,00,30,00,31,00,2e,00,30,00,30,00,31,00,32,00,00,00,38,00,14,\
+  00,01,00,50,00,72,00,6f,00,64,00,75,00,63,00,74,00,56,00,65,00,72,00,73,00,\
+  69,00,6f,00,6e,00,00,00,31,00,2e,00,30,00,31,00,2e,00,30,00,30,00,31,00,32,\
+  00,00,00,34,00,12,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,\
+  4e,00,61,00,6d,00,65,00,00,00,4d,00,4e,00,47,00,52,00,45,00,47,00,33,00,32,\
+  00,00,00,00,00,02,00,00,00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,\
+  04,00,00,00,00,00,00,00,65,05,00,00,02,00,00,00,03,00,00,00,00,00,01,00,53,\
+  00,65,00,72,00,76,00,69,00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,\
+  33,00,00,00,23,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\msci_uno.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mscoree.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mscorsvr.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mscorwks.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\msjava.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mso.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\NAVOPTRF.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\NeVideoFX.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\NPMLIC.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\NSWSTE.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\photohse.EXE]
+"GlobalFlag"="0x00200000"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\PMSTE.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ppw32hlp.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\printhse.EXE]
+"GlobalFlag"="0x00200000"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\prwin8.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ps80.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\psdmt.exe]
+"ApplicationGoo"=hex:14,02,00,00,10,02,00,00,00,02,00,00,b4,02,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,35,00,07,00,00,00,00,00,35,\
+  00,07,00,00,00,00,00,3f,00,00,00,00,00,00,00,04,00,00,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,12,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,ee,01,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,62,00,30,00,00,00,42,00,11,00,01,\
+  00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,\
+  00,00,50,00,65,00,6f,00,70,00,6c,00,65,00,53,00,6f,00,66,00,74,00,2c,00,20,\
+  00,49,00,6e,00,63,00,2e,00,00,00,00,00,28,00,00,00,01,00,46,00,69,00,6c,00,\
+  65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,6e,00,00,\
+  00,00,00,2a,00,05,00,01,00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,\
+  69,00,6f,00,6e,00,00,00,00,00,37,00,2e,00,35,00,33,00,00,00,00,00,9c,00,3c,\
+  00,01,00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,\
+  67,00,68,00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,\
+  00,20,00,a9,00,20,00,31,00,39,00,38,00,38,00,2d,00,31,00,39,00,39,00,38,00,\
+  20,00,50,00,65,00,6f,00,70,00,6c,00,65,00,53,00,6f,00,66,00,74,00,2c,00,20,\
+  00,49,00,6e,00,63,00,2e,00,20,00,20,00,41,00,6c,00,6c,00,20,00,52,00,69,00,\
+  67,00,68,00,74,00,73,00,20,00,52,00,65,00,73,00,65,00,72,00,76,00,65,00,64,\
+  00,00,00,3c,00,0a,00,01,00,4f,00,72,00,69,00,67,00,69,00,6e,00,61,00,6c,00,\
+  46,00,69,00,6c,00,65,00,6e,00,61,00,6d,00,65,00,00,00,70,00,73,00,64,00,6d,\
+  00,74,00,2e,00,10,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\qfinder.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\qpw.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\salwrap.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\setup.exe]
+"ApplicationGoo"=hex:00,07,00,00,54,02,00,00,00,02,00,00,84,07,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,05,00,05,00,07,00,a8,07,05,\
+  00,05,00,07,00,a8,07,3f,00,00,00,00,00,00,00,04,00,04,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,e4,06,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,60,03,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,42,00,30,00,00,00,18,00,00,00,01,\
+  00,43,00,6f,00,6d,00,6d,00,65,00,6e,00,74,00,73,00,00,00,4c,00,16,00,01,00,\
+  43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,\
+  00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,43,00,6f,00,\
+  72,00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,00,00,68,00,20,00,01,\
+  00,46,00,69,00,6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,\
+  69,00,6f,00,6e,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,\
+  00,74,00,20,00,45,00,78,00,63,00,68,00,61,00,6e,00,67,00,65,00,20,00,53,00,\
+  65,00,72,00,76,00,65,00,72,00,20,00,53,00,65,00,74,00,75,00,70,00,00,00,36,\
+  00,0b,00,01,00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,\
+  6e,00,00,00,00,00,35,00,2e,00,35,00,2e,00,31,00,39,00,36,00,30,00,2e,00,37,\
+  00,00,00,00,00,2c,00,06,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,\
+  6c,00,4e,00,61,00,6d,00,65,00,00,00,53,00,65,00,74,00,75,00,70,00,00,00,9e,\
+  00,3d,00,01,00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,\
+  69,00,67,00,68,00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,\
+  00,74,00,20,00,02,00,00,00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,\
+  05,00,00,00,00,00,00,00,65,05,00,00,02,00,00,00,00,00,00,00,00,00,00,00,53,\
+  00,65,00,72,00,76,00,69,00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,\
+  33,00,00,00,24,00,54,02,00,00,00,02,00,00,a4,08,34,00,00,00,56,00,53,00,5f,\
+  00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,46,00,4f,00,\
+  00,00,00,00,bd,04,ef,fe,00,00,01,00,05,00,05,00,07,00,a8,07,05,00,05,00,07,\
+  00,a8,07,3f,00,00,00,00,00,00,00,04,00,04,00,01,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,04,08,00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,\
+  00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,f0,03,00,00,01,00,30,00,\
+  34,00,30,00,39,00,30,00,34,00,42,00,30,00,00,00,18,00,00,00,01,00,43,00,6f,\
+  00,6d,00,6d,00,65,00,6e,00,74,00,73,00,00,00,4c,00,16,00,01,00,43,00,6f,00,\
+  6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,43,00,6f,00,72,00,70,00,\
+  6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,00,00,68,00,20,00,01,00,46,00,69,\
+  00,6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,\
+  6e,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,\
+  00,45,00,78,00,63,00,68,00,61,00,6e,00,67,00,65,00,20,00,53,00,65,00,72,00,\
+  76,00,65,00,72,00,20,00,53,00,65,00,74,00,75,00,70,00,00,00,36,00,0b,00,01,\
+  00,46,00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,\
+  00,00,35,00,2e,00,35,00,2e,00,31,00,39,00,36,00,30,00,2e,00,37,00,00,00,00,\
+  00,2c,00,06,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,\
+  61,00,6d,00,65,00,00,00,53,00,65,00,74,00,75,00,70,00,00,00,a6,00,41,00,01,\
+  00,4c,00,65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,\
+  68,00,74,00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,20,\
+  00,02,00,00,00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,05,00,00,00,\
+  00,00,00,00,65,05,00,00,02,00,00,00,00,00,00,00,00,00,00,00,53,00,65,00,72,\
+  00,76,00,69,00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,33,00,00,00,\
+  24,00,54,02,00,00,00,02,00,00,18,04,34,00,00,00,56,00,53,00,5f,00,56,00,45,\
+  00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,46,00,4f,00,00,00,00,00,\
+  bd,04,ef,fe,00,00,01,00,05,00,05,00,07,00,a8,07,05,00,05,00,07,00,a8,07,3f,\
+  00,00,00,00,00,00,00,04,00,04,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,78,03,00,00,01,00,53,00,74,00,72,00,69,00,6e,00,67,00,46,00,69,00,6c,\
+  00,65,00,49,00,6e,00,66,00,6f,00,00,00,54,03,00,00,01,00,30,00,34,00,30,00,\
+  39,00,30,00,34,00,42,00,30,00,00,00,18,00,00,00,01,00,43,00,6f,00,6d,00,6d,\
+  00,65,00,6e,00,74,00,73,00,00,00,4c,00,16,00,01,00,43,00,6f,00,6d,00,70,00,\
+  61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,00,00,4d,00,69,00,63,00,72,\
+  00,6f,00,73,00,6f,00,66,00,74,00,20,00,43,00,6f,00,72,00,70,00,6f,00,72,00,\
+  61,00,74,00,69,00,6f,00,6e,00,00,00,68,00,20,00,01,00,46,00,69,00,6c,00,65,\
+  00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,6e,00,00,00,\
+  00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,45,00,78,\
+  00,63,00,68,00,61,00,6e,00,67,00,65,00,20,00,53,00,65,00,72,00,76,00,65,00,\
+  72,00,20,00,53,00,65,00,74,00,75,00,70,00,00,00,36,00,0b,00,01,00,46,00,69,\
+  00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,35,00,\
+  2e,00,35,00,2e,00,31,00,39,00,36,00,30,00,2e,00,37,00,00,00,00,00,2c,00,06,\
+  00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,00,\
+  65,00,00,00,53,00,65,00,74,00,75,00,70,00,00,00,9a,00,3b,00,01,00,4c,00,65,\
+  00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,\
+  00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,20,00,02,00,00,\
+  00,00,00,00,00,01,00,00,00,4c,00,00,00,3c,fd,06,00,05,00,00,00,00,00,00,00,\
+  65,05,00,00,02,00,00,00,00,00,00,00,00,00,00,00,53,00,65,00,72,00,76,00,69,\
+  00,63,00,65,00,20,00,50,00,61,00,63,00,6b,00,20,00,33,00,00,00,24,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\setup32.dll]
+"ApplicationGoo"=hex:14,02,00,00,10,02,00,00,00,02,00,00,04,03,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,1c,00,08,00,00,00,00,00,00,\
+  00,08,00,00,00,00,00,3f,00,00,00,00,00,00,00,04,00,00,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,64,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,40,02,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,62,00,30,00,00,00,44,00,12,00,01,\
+  00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,\
+  00,00,43,00,6f,00,72,00,65,00,6c,00,20,00,43,00,6f,00,72,00,70,00,6f,00,72,\
+  00,61,00,74,00,69,00,6f,00,6e,00,00,00,4e,00,13,00,01,00,46,00,69,00,6c,00,\
+  65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,00,69,00,6f,00,6e,00,00,\
+  00,00,00,43,00,6f,00,72,00,65,00,6c,00,20,00,53,00,65,00,74,00,75,00,70,00,\
+  20,00,57,00,69,00,7a,00,61,00,72,00,64,00,00,00,00,00,2c,00,06,00,01,00,46,\
+  00,69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,\
+  38,00,2e,00,30,00,32,00,38,00,00,00,46,00,13,00,01,00,49,00,6e,00,74,00,65,\
+  00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,00,65,00,00,00,43,00,6f,00,72,00,\
+  65,00,6c,00,20,00,53,00,65,00,74,00,75,00,70,00,20,00,57,00,69,00,7a,00,61,\
+  00,72,00,64,00,00,00,00,00,6c,00,24,00,01,00,4c,00,65,00,67,00,61,00,6c,00,\
+  43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,00,00,43,00,6f,00,70,\
+  00,79,00,72,00,69,00,67,00,68,00,74,00,20,00,a9,00,20,00,31,00,39,00,39,00,\
+  37,00,2c,00,20,00,43,00,6f,00,72,00,65,00,6c,00,20,00,43,00,6f,00,72,00,70,\
+  00,6f,00,72,00,08,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sevinst.exe]
+"ApplicationGoo"=hex:14,02,00,00,10,02,00,00,00,02,00,00,38,03,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,02,00,0a,00,01,00,0a,00,02,\
+  00,0a,00,01,00,0a,00,00,00,00,00,00,00,00,00,04,00,01,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,98,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,74,02,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,45,00,34,00,00,00,4a,00,15,00,01,\
+  00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,\
+  00,00,53,00,79,00,6d,00,61,00,6e,00,74,00,65,00,63,00,20,00,43,00,6f,00,72,\
+  00,70,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,00,00,00,00,60,00,1c,00,\
+  01,00,46,00,69,00,6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,\
+  00,69,00,6f,00,6e,00,00,00,00,00,53,00,79,00,6d,00,61,00,6e,00,74,00,65,00,\
+  63,00,20,00,53,00,79,00,6d,00,65,00,76,00,65,00,6e,00,74,00,20,00,49,00,6e,\
+  00,73,00,74,00,61,00,6c,00,6c,00,65,00,72,00,00,00,34,00,0a,00,01,00,46,00,\
+  69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,31,\
+  00,30,00,2e,00,32,00,2e,00,31,00,30,00,2e,00,31,00,00,00,30,00,08,00,01,00,\
+  49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,00,65,00,00,\
+  00,53,00,45,00,56,00,49,00,4e,00,53,00,54,00,00,00,7e,00,2d,00,01,00,4c,00,\
+  65,00,67,00,61,00,6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,\
+  00,00,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,20,00,28,00,\
+  43,00,29,00,20,00,53,00,79,00,6d,00,61,00,6e,00,74,00,65,00,63,00,20,00,43,\
+  00,6f,00,72,00,01,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\symlcnet.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\tcore_ebook.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TFDTCTT8.DLL]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ua80.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\udtapi.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ums.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\vb40032.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\vbe6.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wpwin8.EXE]
+"DisableHeapLookAside"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\xlmlEN.dll]
+"CheckAppHelp"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\xwsetup.EXE]
+"ApplicationGoo"=hex:14,02,00,00,10,02,00,00,00,02,00,00,7c,03,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,00,00,01,00,09,00,26,00,00,\
+  00,01,00,09,00,26,00,3f,00,00,00,00,00,00,00,04,00,00,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,dc,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,b8,02,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,62,00,30,00,00,00,66,00,27,00,01,\
+  00,43,00,6f,00,6d,00,6d,00,65,00,6e,00,74,00,73,00,00,00,42,00,75,00,73,00,\
+  69,00,6e,00,65,00,73,00,73,00,20,00,49,00,6e,00,74,00,65,00,6c,00,6c,00,69,\
+  00,67,00,65,00,6e,00,63,00,65,00,20,00,6f,00,6e,00,20,00,45,00,76,00,65,00,\
+  72,00,79,00,20,00,44,00,65,00,73,00,6b,00,74,00,6f,00,70,00,00,00,00,00,48,\
+  00,14,00,01,00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,\
+  65,00,00,00,00,00,43,00,6f,00,67,00,6e,00,6f,00,73,00,20,00,49,00,6e,00,63,\
+  00,6f,00,72,00,70,00,6f,00,72,00,61,00,74,00,65,00,64,00,00,00,60,00,1c,00,\
+  01,00,46,00,69,00,6c,00,65,00,44,00,65,00,73,00,63,00,72,00,69,00,70,00,74,\
+  00,69,00,6f,00,6e,00,00,00,00,00,43,00,6f,00,67,00,6e,00,6f,00,73,00,20,00,\
+  47,00,65,00,6e,00,65,00,72,00,69,00,63,00,20,00,49,00,6e,00,73,00,74,00,61,\
+  00,6c,00,6c,00,61,00,74,00,69,00,6f,00,6e,00,00,00,38,00,0c,00,01,00,46,00,\
+  69,00,6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,31,\
+  00,2c,00,20,00,30,00,2c,00,20,00,33,00,38,00,2c,00,20,00,39,00,00,00,30,00,\
+  08,00,01,00,49,00,6e,00,74,00,65,00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,\
+  00,65,00,00,00,01,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Your Image File Name Here without a path]
+"Debugger"="ntsd -d"
+"GlobalFlag"="0x000010F0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\_INSTPGM.EXE]
+"ApplicationGoo"=hex:14,02,00,00,10,02,00,00,00,02,00,00,a4,02,34,00,00,00,56,\
+  00,53,00,5f,00,56,00,45,00,52,00,53,00,49,00,4f,00,4e,00,5f,00,49,00,4e,00,\
+  46,00,4f,00,00,00,00,00,bd,04,ef,fe,00,00,01,00,00,00,01,00,01,00,00,00,00,\
+  00,01,00,01,00,00,00,3f,00,00,00,00,00,00,00,01,00,01,00,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,04,02,00,00,01,00,53,00,74,00,72,00,69,00,6e,\
+  00,67,00,46,00,69,00,6c,00,65,00,49,00,6e,00,66,00,6f,00,00,00,e0,01,00,00,\
+  01,00,30,00,34,00,30,00,39,00,30,00,34,00,45,00,34,00,00,00,20,00,00,00,01,\
+  00,43,00,6f,00,6d,00,70,00,61,00,6e,00,79,00,4e,00,61,00,6d,00,65,00,00,00,\
+  00,00,58,00,18,00,01,00,46,00,69,00,6c,00,65,00,44,00,65,00,73,00,63,00,72,\
+  00,69,00,70,00,74,00,69,00,6f,00,6e,00,00,00,00,00,49,00,4e,00,53,00,54,00,\
+  41,00,4c,00,4c,00,20,00,4d,00,46,00,43,00,20,00,41,00,70,00,70,00,6c,00,69,\
+  00,63,00,61,00,74,00,69,00,6f,00,6e,00,00,00,30,00,08,00,01,00,46,00,69,00,\
+  6c,00,65,00,56,00,65,00,72,00,73,00,69,00,6f,00,6e,00,00,00,00,00,31,00,2e,\
+  00,30,00,2e,00,30,00,30,00,31,00,00,00,30,00,08,00,01,00,49,00,6e,00,74,00,\
+  65,00,72,00,6e,00,61,00,6c,00,4e,00,61,00,6d,00,65,00,00,00,49,00,4e,00,53,\
+  00,54,00,41,00,4c,00,4c,00,00,00,24,00,00,00,01,00,4c,00,65,00,67,00,61,00,\
+  6c,00,43,00,6f,00,70,00,79,00,72,00,69,00,67,00,68,00,74,00,00,00,28,00,00,\
+  00,01,00,4c,00,65,00,67,00,61,00,6c,00,54,00,72,00,61,00,64,00,65,00,6d,00,\
+  61,00,72,00,6b,00,73,00,00,00,00,00,40,00,0c,00,01,00,4f,00,72,00,69,00,67,\
+  00,69,00,6e,00,61,00,6c,00,46,00,69,00,6c,00,65,00,6e,00,61,00,6d,00,65,00,\
+  00,00,49,00,4e,00,53,00,54,00,41,00,4c,00,4c,00,2e,00,45,00,58,00,45,00,00,\
+  00,30,00,08,00,08,00,00,00,00,00,00,00
+
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\windows\CurrentVersion\policies\explorer]
+"NoDriveAutoRun"=dword:03FFFFFF
+"NoDriveTypeAutoRun"=dword:00000143
+  
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad]
+"SysTray"="{35CEC8A3-2BE6-11D2-8773-92E220524153}"
+
+
+[HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+[HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce]
+[HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices]
+[HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+[HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce]
+[HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices]
+
+[-HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+[-HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+[-HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce]
+[-HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce]
+[-HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices]
+[-HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices]
+[-HKEY_USERS\S-1-5-19\Software\Microsoft\duziniwi]
+[-HKEY_USERS\S-1-5-20\Software\Microsoft\duziniwi]
+
+
+
+  
+  

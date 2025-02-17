@@ -1,0 +1,25 @@
+AxInstSVGroup	REG_MULTI_SZ   	AxInstSV
+bthsvcs	REG_MULTI_SZ   	bthserv
+DcomLaunch	REG_MULTI_SZ   	Power BrokerInfrastructure LSM PlugPlay DeviceInstall DcomLaunch
+DcomLaunch	REG_MULTI_SZ   	Power PlugPlay DcomLaunch
+defragsvc	REG_MULTI_SZ   	defragsvc
+ICService	REG_MULTI_SZ   	vmicheartbeat vmicrdv
+imgsvc	REG_MULTI_SZ   	StiSvc
+LocalServiceAndNoImpersonation	REG_MULTI_SZ   	SSDPSRV upnphost SCardSvr TBS FontCache fdrespub AppIDSvc QWAVE wcncsvc Mcx2Svc SensrSvc
+LocalServiceAndNoImpersonation	REG_MULTI_SZ   	TimeBroker SSDPSRV upnphost SCardSvr BthHFSrv QWAVE fdrespub wcncsvc WSService SensrSvc
+LocalServiceNoNetwork	REG_MULTI_SZ   	DPS PLA BFE mpssvc NcdAutoSetup WwanSvc
+LocalServiceNoNetwork	REG_MULTI_SZ   	DPS PLA BFE mpssvc WwanSvc
+LocalServicePeerNet	REG_MULTI_SZ   	PNRPSvc p2pimsvc p2psvc PnrpAutoReg
+NetworkServiceAndNoImpersonation	REG_MULTI_SZ   	KtmRm
+NetworkServiceNetworkRestricted	REG_MULTI_SZ   	PolicyAgent
+PeerDist	REG_MULTI_SZ   	PeerDistSvc
+print	REG_MULTI_SZ   	PrintNotify
+regsvc	REG_MULTI_SZ   	RemoteRegistry
+RPCSS	REG_MULTI_SZ   	RpcEptMapper RpcSs
+sdrsvc	REG_MULTI_SZ   	sdrsvc
+secsvcs	REG_MULTI_SZ   	WinDefend
+swprv	REG_MULTI_SZ   	swprv
+termsvcs	REG_MULTI_SZ   	TermService
+WbioSvcGroup	REG_MULTI_SZ   	WbioSrvc
+wcssvc	REG_MULTI_SZ   	WcsPlugInService
+WerSvcGroup	REG_MULTI_SZ   	wersvc

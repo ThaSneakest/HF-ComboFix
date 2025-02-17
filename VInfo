@@ -1,0 +1,49 @@
+	([8-9][0-9]{3}|[1][0-9]{4})	.:\\[^	]*	1:------	8:([^	]*) Application	7:\2\.exe
+1:	8:[^	]*	7:notepad\.EXE
+8:idxsvc	7:HL40[0-9]_[0-9]{1,2}\.exe
+1:Microsoft	8:Project[0-9]*	7:Project[0-9]*\.exe
+1:	8:	7:Project[0-9]*\.exe
+8:trnsapp	7:HL40[0-9]_[0-9]*\.exe
+8:Project1	7:[0-9]*\.exe
+8:Project1	7:.\.exe
+8:Project1	7:vipinstall[01][0-9]09\.exe
+.:\\[^\\]*\\[^\\]*	1:Microsoft Corporation	8:Microsoft\(R\) Windows\(R\) Operating System	7:$
+1:Microsoft Corporation	8:Microsoft\(R\) Windows\(R\) Operating System	7:.\.exe
+8:Project1	7:installscash06[0-9][0-9]\.exe
+1:360....	8:a	7:kk\.exe
+1:------	8:Svchost32 ....	7:Svchost32\.EXE
+1:------	8:Project1	7:vipinstall_[0-9][0-9][0-9]*\.exe
+1:\|	8:\|.*\|	7:.*\.exe
+1:IAntivirus.*
+1:MadeForNet\.com	8:HTTP Debugger SDK	7:mfn.*
+system32\\[^\\]*	1:Mozilla Foundation	8:Firefox	7:	3:1\.9\.0\.5
+1:------	8:Rwar	7:....\.exe	3:1.0.0.0
+^[^6].*1:Johnson-Grace Company	8:JGAW	7:jgaw400.dll	3:036
+	50688	.:\\[^	]*	1:------	8:CLDiscIn Dynamic Link Library	7:CLDiscIn.dll	3:1.0.0.1029
+	([^1][0-9]...|[0-9]{6,})	.:\\[^	]*	1:MainConcept AG	8:MainConcept® MPEG Settings Checker	7:mcmpgcheck.dll	3:1.2.7984.0 2006/06/19
+	([0-9]{4}|[^2]....|[0-9]{6,})	.:\\[^	]*	1:Microsoft Corporation	8:Microsoft\(R\) Windows\(R\) Operating System	7:USERINIT.EXE	3:5.1.2600.5512 \(xpsp.080413-2113\)
+	([^56][0-9]...|[0-9]{6,})	.:\\[^	]*	1:Realtek Semiconductor Corp.	8:Realtek AC97 Audio - Event Monitor	7:Alcxmntr\.exe	3:1\.6\.0\.2
+	([^4][0-9]....|[0-9]{7,}|[0-9]{1,5})	.:\\[^	]*	1:AGEIA Technologies, Inc.	8:PhysXCooking Dynamic Link Library	7:NxCooking.dll	3:2, 6, 4, 3
+	467968	.:\\[^	]*	1:Microsoft Corporation	8:Microsoft Windows Operating System	7:file.exe	3:5.1.2600.5512 \(xpsp.080413-2108\)
+	[0-9]{1,6}	.:\\[^	]*	1:Doctor Web, Ltd\.	8:Dr\.Web ® for Windows	7:DrWeb32w\.exe
+	([^4][0-9]...|[0-9]{6,})	.:\\[^	]*	1:	8:Simple DirectMedia Layer	7:SDL_image\.dll	3:1, 2, 6, 0
+	......	.:\\[^	]*	1:Lextek International	8:Lextek International Onix32	7:Onix32\.dll	3:4,0,030119
+	([^3][0-9]...|[0-9]{6,})	.:\\[^	]*	1:ABBYY \(BIT Software\)	8:Lingvo	7:LvLogo\.dll	3:10\.0\.0\.213
+	([3-9][0-9]...|[0-9]{6,})	.:\\[^	]*	1:ESET	8:Eset Smart Security	7:eplgHooks\.dll	3:3\.0\.566
+	[0-9]{5,}	.:\\[^	]*	1:Microsoft Corporation	8:Microsoft. Windows. Operating System	7:kbdhe319\.dll	3:5\.1\.2600\.0 \(xpclient\.010817-1148\)
+	([^7][0-9]...|[0-9]{6,})	.:\\[^	]*	1:Microsoft Corporation	8:Microsoftr Windowsr Operating System	7:SETUP50\.EXE	3:6\.00\.2900\.2180 \(xpsp_sp2_rtm\.040803-2158\)
+	([^1][0-9]...|[0-9]{6,})	.:\\[^	]*	1:	8:StatsReader	7:StatsReader\.EXE
+	([^7][0-9]...|[0-9]{6,})	.:\\[^	]*	1:eEye Digital Security	8:Iris	7:ecapn\.dll
+	.{4,6}	.:\\[^	]*	1:VMware, Inc.	8:VMware Workstation	7:vmuiRes\.dll	3:5\.5\.0 build-18463
+	.{4,6}	.:\\[^	]*	1:Firelight Technologies	8:FMOD Ex EventSystem	7:fmod_event.dll	3:4\.22\.18
+	[0-9]{5} 	.:\\[^	]*	1:RealWorld Graphics	8:Picture Resizer	7:PhotoResize.exe	3:2.07:Project1cn3.exe
+	.{4,5}	.:\\[^	]*	1:Sony DADC Austria AG	8:SecuROM Activate & Play	7:paul_dll_activate_and_play.dll
+	132096	.:\\[^	]*	1:CANON INC.	8:Canon Inkjet Printer Driver	7:CNBBRxxx.DLL	3:1.10.2.11 \(fbl_dox_dev_ihvs.081016-1807\)
+\.exe	1:.*  .*	8:.*  .*	7:
+system32\\R.m....\.dll	1:@ Microsoft Corporation. All rights reserved.	8:STMP	7:STMP.dll	3:5.1.2600.2180
+	[2-9].{4,6}	.:\\[^	]*	1:MaresWEB	8:BASS_ALAC	7:bass_alac.dll	3:2.3.0.0
+6....	.:\\[^	]*	1:Wondershare	8:Wondershare Flash Gallery Factory	7:FGF.EXE	3:5.0.4.33
+6....	.:\\[^	]*	1:Blog do Birungueta	8:TextMaker	7:TextMaker.exe	3:2010,0,0,584
+223744	.:\\[^	]*	1:ConeXware, Inc.	8:PowerArchiver 2010	7:	3:1.1.0.1
+71680	.:\\[^	]*	1:CyberLink Corp.	8:TODO: <Product name>	7:MUITransfer.dll	3:1.01.0913
+7....	.:\\[^\\]*\\[^\\]*\.dll	1:	8:RealAudio 8, Sony ATRAC3 audio codec	7:atrc3260\.dll	3:6\.0\.1\.1536

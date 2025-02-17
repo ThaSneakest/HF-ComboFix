@@ -1,0 +1,18 @@
+termsvcs	REG_MULTI_SZ   	TermService
+rpcss	REG_MULTI_SZ   	RpcSs
+wcssvc	REG_MULTI_SZ   	WcsPlugInService
+DcomLaunch	REG_MULTI_SZ   	PlugPlay DcomLaunch
+imgsvc	REG_MULTI_SZ   	StiSvc
+NetworkServiceNetworkRestricted    REG_MULTI_SZ    PolicyAgent
+LocalServiceNoNetwork    REG_MULTI_SZ    PLA DPS BFE mpssvc ehstart
+WerSvcGroup    REG_MULTI_SZ    wersvc
+swprv    REG_MULTI_SZ    swprv
+termsvcs    REG_MULTI_SZ    TermService
+rpcss    REG_MULTI_SZ    RpcSs
+regsvc    REG_MULTI_SZ    RemoteRegistry
+wcssvc    REG_MULTI_SZ    WcsPlugInService
+DcomLaunch    REG_MULTI_SZ    PlugPlay DcomLaunch
+wdisvc    REG_MULTI_SZ    WdiServiceHost
+sdrsvc    REG_MULTI_SZ    sdrsvc
+imgsvc    REG_MULTI_SZ    StiSvc
+secsvcs    REG_MULTI_SZ    WinDefend

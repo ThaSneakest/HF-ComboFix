@@ -1,0 +1,61 @@
+REGEDIT4
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost\LocalServiceNetworkRestricted]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost\LocalSystemNetworkRestricted]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost\NetworkService]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BridgeMP]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\iphlpsvc]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PolicyAgent\Parameters]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tdx]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinHttpAutoProxySvc]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_IPHLPSVC]
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD]
+"Description"="AFD Networking Support Environment"
+"DisplayName"="AFD"
+"BootFlags"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ClipSrv]
+"Description"="Enables ClipBook Viewer to store information and share it with remote computers. If the service is stopped, ClipBook Viewer will not be able to share information with remote computers. If this service is disabled, any services that explicitly depend on it will fail to start."
+"DisplayName"="ClipBook"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DMusic]
+"DisplayName"="Microsoft Kernel DLS Syntheiszer"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Messenger]
+; "DependOnGroup"=hex(7):00
+"DependOnService"=hex(7):4C,61,6E,6D,61,6E,57,6F,72,6B,73,74,61,74,69,6F,6E,00,4E,65,74,42,49,4F,53,00,50,6C,75,67,50,6C,61,79,00,52,70,63,53,53,00,00
+"Description"="Transmits net send and Alerter service messages between clients and servers. This service is not related to Windows Messenger. If this service is stopped, Alerter messages will not be transmitted. If this service is disabled, any services that explicitly depend on it will fail to start."
+"DisplayName"="Messenger"
+"ErrorControl"=dword:00000001
+"ObjectName"="LocalSystem"
+"Start"=dword:00000004
+"Type"=dword:00000020
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"EnableICMPRedirect"=dword:00000001
+"EnableSecurityFilters"=dword:00000000
+"TcpWindowSize"=dword:0000FAF0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wscsvc]
+"Description"="Monitors system security settings and configurations."
+"DisplayName"="Security Center"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv]
+"DelayedAutoStart"=-
+"DependOnService"=-
+"Description"="Enables the download and installation of Windows updates. If this service is disabled, this computer will not be able to use the Automatic Updates feature or the Windows Update Web site."
+"FailureActions"=-
+"PreshutdownTimeout"=-
+"RequiredPrivileges"=-
+"ServiceSidType"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv\Parameters]
+"ServiceDllUnloadOnStop"=-
+"ServiceMain"=-
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend]
+"DisplayName"="Windows Defender"
+"Description"="Scan your computer for unwanted software, schedule scans, and get the latest unwanted software definitions."
+
