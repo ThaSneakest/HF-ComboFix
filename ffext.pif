@@ -1,0 +1,17 @@
+.output result.txt
+.nullvalue "- "
+.header off
+.separator "; "
+.timeout 4000
+select datetime(installdate/1000, 'unixepoch', 'localtime'), id, descriptor
+from addon 
+where visible > 0
+and installdate > (julianday('now','-2 months') - 2440587.5)*86400000.0
+and type not like "theme"
+ORDER BY installdate ASC ;
+select visible, datetime(installdate/1000, 'unixepoch', 'localtime'), id, descriptor
+from addon 
+where visible = 0 
+and type not like "theme"
+ORDER BY installdate ASC ;
+.q

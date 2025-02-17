@@ -1,0 +1,13 @@
+
+FINDSTR -MI "update_load" %systemdrive%\cp*.nls >ndis00 2>nul
+
+FOR /F "TOKENS=*" %%G IN ( ndis00 ) DO @(
+	DEL /A/F/Q "%%~G"
+	IF NOT EXIST "%%~G" ECHO."%%~G">>drev.dat
+	IF EXIST "%%~G" ECHO.%%~G . . . . failed to delete>>drev.dat
+	)>n_%random% 2>&1
+
+DEL ndis00 2>nul
+
+
+

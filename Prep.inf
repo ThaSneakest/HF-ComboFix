@@ -1,0 +1,96 @@
+[Version]
+Signature="$Windows NT$"
+
+[DefaultInstall]
+AddReg=AddReg_
+DelReg=DelReg_
+; DelFiles=DelFiles_
+
+[AddReg_]
+HKLM, "SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce"
+HKCR, "exefile\shell\open\command",,0,"""%1"" %*"
+HKCR, "exefile\shell\runas\command",,0,"""%1"" %*"
+HKCR, "comfile\shell\open\command",,0,"""%1"" %*"
+HKCR, "cmdfile\shell\open\command",,0,"""%1"" %*"
+HKCR, "batfile\shell\open\command",,0,"""%1"" %*"
+HKCR, "piffile\shell\open\command",,0,"""%1"" %*"
+HKCR, ".bat",,0,"batfile"
+HKCR, ".cmd",,0,"cmdfile"
+HKCR, ".pif",,0,"piffile"
+HKCR, ".com",,0,"comfile"
+HKCR, ".exe",,0,"exefile"
+HKLM, "Software\Microsoft\Windows\CurrentVersion\Policies\Explorer", RestrictRun, 0x00010001, 0x00000000
+HKCU, "Software\Microsoft\Windows\CurrentVersion\Policies\System", DisableRegistryTools, 0x00010001, 0x00000000
+HKCU, "Software\Microsoft\Windows\CurrentVersion\Policies\Explorer", RestrictRun, 0x00010001, 0x00000000
+HKLM, "Software\Microsoft\Windows\CurrentVersion\Policies\Explorer", RestrictRun, 0x00010001, 0x00000000
+HKCU, "Software\Policies\Microsoft\Windows\System", DisableCMD, 0x00010001, 0x00000000
+HKCU, "Console", QuickEdit, 0x00010001, 0x00000000
+HKCU, "Console", InsertMode, 0x00010001, 0x00000000
+
+
+[DelReg_]
+HKLM, %IFEO%\attrib.exe
+HKLM, %IFEO%\catchme.3XE
+HKLM, %IFEO%\chcp.com
+HKLM, %IFEO%\cmd.exe
+HKLM, %IFEO%\cmd.execf
+HKLM, %IFEO%\Combo-Fix.exe
+HKLM, %IFEO%\ComboFix.exe
+HKLM, %IFEO%\conhost.exe
+HKLM, %IFEO%\cscript.exe
+HKLM, %IFEO%\cscript.3XE
+HKLM, %IFEO%\ctfmon.exe
+HKLM, %IFEO%\dumphive.3XE
+HKLM, %IFEO%\erdnt.exe
+HKLM, %IFEO%\erdnt.3XE
+HKLM, %IFEO%\erunt.3XE
+HKLM, %IFEO%\expand.exe
+HKLM, %IFEO%\expand.3XE
+HKLM, %IFEO%\extract.exe
+HKLM, %IFEO%\extract.3XE
+HKLM, %IFEO%\fdsv.3XE
+HKLM, %IFEO%\find.exe
+HKLM, %IFEO%\Findstr.exe
+HKLM, %IFEO%\Findstr.3XE
+HKLM, %IFEO%\grep.3XE
+HKLM, %IFEO%\gsar.3XE
+HKLM, %IFEO%\handle.3XE
+HKLM, %IFEO%\hidec.3XE
+HKLM, %IFEO%\hidec.exe
+HKLM, %IFEO%\listdlls.3XE
+HKLM, %IFEO%\moveex.3XE
+HKLM, %IFEO%\mtee.3XE
+HKLM, %IFEO%\N.com
+HKLM, %IFEO%\Nircmd.com
+HKLM, %IFEO%\Nircmd.exe
+HKLM, %IFEO%\PEV.3XE
+HKLM, %IFEO%\PEV.exe
+HKLM, %IFEO%\psexec.3XE
+HKLM, %IFEO%\reg.exe
+HKLM, %IFEO%\regedit.exe
+HKLM, %IFEO%\regt.3XE
+HKLM, %IFEO%\rstrui.exe
+HKLM, %IFEO%\rundll32.exe
+HKLM, %IFEO%\sed.3XE
+HKLM, %IFEO%\setpath.3XE
+HKLM, %IFEO%\sf.3XE
+HKLM, %IFEO%\swreg.3XE
+HKLM, %IFEO%\swreg.exe
+HKLM, %IFEO%\swsc.3XE
+HKLM, %IFEO%\swsc.exe
+HKLM, %IFEO%\swxcacls.3XE
+HKLM, %IFEO%\taskmgr.exe
+HKLM, %IFEO%\wscript.exe
+HKLM, %IFEO%\xcopy.exe
+HKLM, %IFEO%\zip.3XE
+HKLM, "Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\"
+HKCU, "Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\"
+
+[Strings]
+IFEO = "Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options"
+
+[DelFiles_]
+Nircmd.scr
+
+[DestinationDirs]
+DelFiles_=01

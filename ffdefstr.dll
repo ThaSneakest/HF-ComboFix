@@ -1,0 +1,844 @@
+("accessibility.accesskeycausesactivation"
+("accessibility.blockautorefresh"
+("accessibility.browsewithcaret"
+("accessibility.tabfocus"
+("accessibility.tabfocus_applies_to_xul", false);
+("accessibility.typeaheadfind
+("accessibility.usebrailledisplay"
+("accessibility.usetexttospeech"
+("accessibility.warn_on_browsewithcaret"
+("advanced.mailftp"
+("advanced.system.supportDDEExec", true);
+("alerts.height",
+("alerts.slideIncrement
+("alerts.totalOpenTime"
+("app.update.auto"
+("app.update.channel"
+("app.update.enabled"
+("app.update.idletime"
+("app.update.incompatible.mode"
+("app.update.interval"
+("app.update.mode"
+("app.update.nagTimer.
+("app.update.promptWaitTime"
+("app.update.showInstalledUI"
+("app.update.silent"
+("app.update.timer"
+("application.use_ns_plugin_finder"
+("bidi.browser.ui", false);
+("bidi.characterset", 1);
+("bidi.controlstextmode", 1);
+("bidi.direction", 1);
+("bidi.edit.caret_movement_style", 2);
+("bidi.edit.delete_immediately", false);
+("bidi.numeral", 0);
+("bidi.support", 1);
+("bidi.texttype", 1);
+("breakpad.reportURL"
+("browser.active_color",
+("browser.anchor_color",
+("browser.audioFeeds.handler"
+("browser.backspace_action"
+("browser.blink_allowed"
+("browser.bookmarks.
+("browser.bookmarks.autoExportHTML"
+("browser.cache.
+("browser.cache.check_doc_frequency"
+("browser.chrome.favicons"
+("browser.chrome.image_icons.max_size"
+("browser.chrome.site_icons"
+("browser.chrome.toolbar_style"
+("browser.chrome.toolbar_tips"
+("browser.chromeURL"
+("browser.display.
+("browser.download.folderList"
+("browser.download.hide_plugins_without_extensions"
+("browser.download.manager.addToRecentDocs"
+("browser.download.manager.closeWhenDone"
+("browser.download.manager.flashCount"
+("browser.download.manager.focusWhenStarting"
+("browser.download.manager.openDelay"
+("browser.download.manager.quitBehavior"
+("browser.download.manager.resumeOnWakeDelay"
+("browser.download.manager.retention"
+("browser.download.manager.scanWhenDone"
+("browser.download.manager.showAlertInterval"
+("browser.download.manager.showAlertOnComplete"
+("browser.download.manager.showWhenStarting"
+("browser.download.manager.useWindow"
+("browser.download.saveLinkAsFilenameTimeout"
+("browser.download.show_plugins_in_list"
+("browser.download.useDownloadDir"
+("browser.enable_automatic_image_resizing"
+("browser.EULA
+("browser.feeds.handler"
+("browser.fixup.alternate.enabled"
+("browser.fixup.alternate.prefix", "www.");
+("browser.fixup.alternate.suffix", ".com");
+("browser.fixup.hide_user_pass", true);
+("browser.formfill.enable"
+("browser.forms.submit.backwards_compatible"
+("browser.frames.enabled"
+("browser.fullscreen.
+("browser.goBrowsing.enabled"
+("browser.helperApps.alwaysAsk.force",  false);
+("browser.helperApps.neverAsk.openFile"
+("browser.helperApps.neverAsk.saveToDisk"
+("browser.history
+("browser.identity.ssl_domain_display"
+("browser.link.open_external"
+("browser.link.open_newwindow"
+("browser.link.open_newwindow.restriction"
+("browser.microsummary.
+("browser.offline-apps.notify"
+("browser.places.migratePostDataAnnotations"
+("browser.places.updateRecentTagsUri"
+("browser.popups.showPopupBlocker"
+("browser.preferences.animateFadeIn"
+("browser.preferences.instantApply"
+("browser.related.
+("browser.rights.3.shown"
+("browser.rights.version",
+("browser.safebrowsing.dataProvider", 0);
+("browser.safebrowsing.enabled", true);
+("browser.safebrowsing.malware.enabled", true);
+("browser.safebrowsing.provider.0.keyURL", "https://sb-ssl.google.com/
+("browser.safebrowsing.provider.0.name", "Google");
+("browser.safebrowsing.provider.0.privacy.fallbackurl", "chrome://browser/content/preferences/phishEULA.xhtml");
+("browser.safebrowsing.provider.0.privacy.url", "http://www.google.com/
+("browser.search.basic.min_ver"
+("browser.search.log"
+("browser.search.openintab"
+("browser.search.order
+("browser.search.param.yahoo-f-CN", "D3_g");
+("browser.search.param.yahoo-fr-cjkt", "moz2");
+("browser.search.param.yahoo-fr", "moz2");
+("browser.search.suggest.enabled"
+("browser.search.update"
+("browser.search.update.log"
+("browser.search.updateinterval"
+("browser.send_pings
+("browser.sessionhistory.
+("browser.sessionstore.
+("browser.shell.checkDefaultBrowser"
+("browser.ssl_override_behavior", 1);
+("browser.startup.homepage",            "resource:/browserconfig.properties");
+("browser.startup.page",                1);
+("browser.tabs.
+("browser.trim_user_and_password",
+("browser.triple_click_selects_paragraph"
+("browser.underline_anchors"
+("browser.urlbar.autoFill"
+("browser.urlbar.clickSelectsAll"
+("browser.urlbar.doubleClickSelectsAll"
+("browser.urlbar.filter.javascript"
+("browser.urlbar.matchBehavior"
+("browser.urlbar.matchOnlyTyped"
+("browser.urlbar.maxRichResults"
+("browser.urlbar.search.chunkSize"
+("browser.urlbar.search.timeout"
+("browser.videoFeeds.handler"
+("browser.visited_color"
+("browser.warnOnQuit"
+("browser.warnOnRestart"
+("browser.windows.loadOnNewWindow",
+("browser.xul.error_pages.enabled", true);
+("browser.xul.error_pages.expert_bad_cert", false);
+("browser.zoom.
+("capability.policy.default.ClassID.CID22D6F312-B0F6-11D0-94AB-0080C74C7E95", "AllAccess");
+("capability.policy.default.ClassID.CID6BF52A52-394A-11D3-B153-00C04F79FAA6", "AllAccess");
+("capability.policy.default.ClassID.CIDA9FC132B-096D-460B-B7D5-1DB0FAE0C062", "AllAccess");
+("capability.policy.default.Clipboard.cutcopy", "noAccess");
+("capability.policy.default.Clipboard.paste", "noAccess");
+("capability.policy.default.DOMException.code", "allAccess");
+("capability.policy.default.DOMException.message", "allAccess");
+("capability.policy.default.DOMException.name", "allAccess");
+("capability.policy.default.DOMException.result", "allAccess");
+("capability.policy.default.DOMException.toString.get", "allAccess");
+("capability.policy.default.DOMParser.parseFromStream", "noAccess");
+("capability.policy.default.History.back.get", "allAccess");
+("capability.policy.default.History.current", "UniversalBrowserRead");
+("capability.policy.default.History.forward.get", "allAccess");
+("capability.policy.default.History.go.get", "allAccess");
+("capability.policy.default.History.item", "UniversalBrowserRead");
+("capability.policy.default.History.next", "UniversalBrowserRead");
+("capability.policy.default.History.previous", "UniversalBrowserRead");
+("capability.policy.default.History.toString", "UniversalBrowserRead");
+("capability.policy.default.HTMLDocument.close.get", "allAccess");
+("capability.policy.default.HTMLDocument.open.get", "allAccess");
+("capability.policy.default.Location.hash.set", "allAccess");
+("capability.policy.default.Location.href.set", "allAccess");
+("capability.policy.default.Location.reload.get", "allAccess");
+("capability.policy.default.Location.replace.get", "allAccess");
+("capability.policy.default.Navigator.preference", "allAccess");
+("capability.policy.default.Navigator.preferenceinternal.get", "UniversalPreferencesRead");
+("capability.policy.default.Navigator.preferenceinternal.set", "UniversalPreferencesWrite");
+("capability.policy.default.Selection.addSelectionListener", "UniversalXPConnect");
+("capability.policy.default.Selection.removeSelectionListener", "UniversalXPConnect");
+("capability.policy.default.SOAPCall.invokeVerifySourceHeader", "allAccess");
+("capability.policy.default.Window.blur.get", "allAccess");
+("capability.policy.default.Window.close.get", "allAccess");
+("capability.policy.default.Window.closed.get", "allAccess");
+("capability.policy.default.Window.Components", "allAccess");
+("capability.policy.default.Window.document.get", "allAccess");
+("capability.policy.default.Window.focus.get", "allAccess");
+("capability.policy.default.Window.frames.get", "allAccess");
+("capability.policy.default.Window.history.get", "allAccess");
+("capability.policy.default.Window.length.get", "allAccess");
+("capability.policy.default.Window.location", "allAccess");
+("capability.policy.default.Window.opener.get", "allAccess");
+("capability.policy.default.Window.parent.get", "allAccess");
+("capability.policy.default.Window.postMessage.get", "allAccess");
+("capability.policy.default.Window.self.get", "allAccess");
+("capability.policy.default.Window.top.get", "allAccess");
+("capability.policy.default.Window.window.get", "allAccess");
+("capability.policy.default.XMLHttpRequest.channel", "noAccess");
+("capability.policy.default.XMLHttpRequest.getInterface", "noAccess");
+("capability.policy.default.XMLHttpRequest.open-uri", "allAccess");
+("capability.policy.default.XULControllers.appendController", "noAccess");
+("capability.policy.default.XULControllers.commandDispatcher", "noAccess");
+("capability.policy.default.XULControllers.getControllerAt", "noAccess");
+("capability.policy.default.XULControllers.getControllerById", "noAccess");
+("capability.policy.default.XULControllers.getControllerCount", "noAccess");
+("capability.policy.default.XULControllers.getControllerForCommand", "noAccess");
+("capability.policy.default.XULControllers.getControllerId", "noAccess");
+("capability.policy.default.XULControllers.insertControllerAt", "noAccess");
+("capability.policy.default.XULControllers.removeController", "noAccess");
+("capability.policy.default.XULControllers.removeControllerAt", "noAccess");
+("capability.policy.default_policynames", "mailnews");
+("capability.policy.mailnews.*.attributes.get", "noAccess");
+("capability.policy.mailnews.*.baseURI.get", "noAccess");
+("capability.policy.mailnews.*.data.get", "noAccess");
+("capability.policy.mailnews.*.documentURI", "noAccess");
+("capability.policy.mailnews.*.getAttribute", "noAccess");
+("capability.policy.mailnews.*.getAttributeNode", "noAccess");
+("capability.policy.mailnews.*.getAttributeNodeNS", "noAccess");
+("capability.policy.mailnews.*.getAttributeNS", "noAccess");
+("capability.policy.mailnews.*.getNamedItem", "noAccess");
+("capability.policy.mailnews.*.getNamedItemNS", "noAccess");
+("capability.policy.mailnews.*.host.get", "noAccess");
+("capability.policy.mailnews.*.hostname.get", "noAccess");
+("capability.policy.mailnews.*.href.get", "noAccess");
+("capability.policy.mailnews.*.innerHTML.get", "noAccess");
+("capability.policy.mailnews.*.lowSrc.get", "noAccess");
+("capability.policy.mailnews.*.nodeValue.get", "noAccess");
+("capability.policy.mailnews.*.pathname.get", "noAccess");
+("capability.policy.mailnews.*.protocol.get", "noAccess");
+("capability.policy.mailnews.*.src.get", "noAccess");
+("capability.policy.mailnews.*.substringData.get", "noAccess");
+("capability.policy.mailnews.*.text.get", "noAccess");
+("capability.policy.mailnews.*.textContent", "noAccess");
+("capability.policy.mailnews.*.title.get", "noAccess");
+("capability.policy.mailnews.document.load", "noAccess");
+("capability.policy.mailnews.DOMException.toString", "noAccess");
+("capability.policy.mailnews.DOMParser.parseFromStream", "noAccess");
+("capability.policy.mailnews.DOMParser.parseFromString", "noAccess");
+("capability.policy.mailnews.HTMLAnchorElement.toString", "noAccess");
+("capability.policy.mailnews.HTMLDivElement.getAttribute", "sameOrigin");
+("capability.policy.mailnews.HTMLDocument.domain", "noAccess");
+("capability.policy.mailnews.HTMLDocument.URL", "noAccess");
+("capability.policy.mailnews.Location.toString", "noAccess");
+("capability.policy.mailnews.Range.toString", "noAccess");
+("capability.policy.mailnews.SchemaLoader.load", "noAccess");
+("capability.policy.mailnews.SchemaLoader.loadAsync", "noAccess");
+("capability.policy.mailnews.SchemaLoader.onError", "noAccess");
+("capability.policy.mailnews.SchemaLoader.onLoad", "noAccess");
+("capability.policy.mailnews.SchemaLoader.processSchemaElement", "noAccess");
+("capability.policy.mailnews.sites", "mailbox: imap: news:");
+("capability.policy.mailnews.SOAPCall.asyncInvoke", "noAccess");
+("capability.policy.mailnews.SOAPCall.invoke", "noAccess");
+("capability.policy.mailnews.SOAPCall.transportURI", "noAccess");
+("capability.policy.mailnews.SOAPCall.verifySourceHeader", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.decode", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.defaultDecoder", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.defaultEncoder", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.encode", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.getAssociatedEncoding", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.getDecoder", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.getEncoder", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.getExternalSchemaURI", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.getInternalSchemaURI", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.mapSchemaURI", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.schemaCollection", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.setDecoder", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.setEncoder", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.styleURI", "noAccess");
+("capability.policy.mailnews.SOAPEncoding.unmapSchemaURI", "noAccess");
+("capability.policy.mailnews.SOAPFault.detail", "noAccess");
+("capability.policy.mailnews.SOAPFault.element", "noAccess");
+("capability.policy.mailnews.SOAPFault.faultActor", "noAccess");
+("capability.policy.mailnews.SOAPFault.faultCode", "noAccess");
+("capability.policy.mailnews.SOAPFault.faultNamespaceURI", "noAccess");
+("capability.policy.mailnews.SOAPFault.faultString", "noAccess");
+("capability.policy.mailnews.SOAPHeaderBlock.actorURI", "noAccess");
+("capability.policy.mailnews.SOAPHeaderBlock.mustUnderstand", "noAccess");
+("capability.policy.mailnews.SOAPParameter", "noAccess");
+("capability.policy.mailnews.SOAPPropertyBagMutator.addProperty", "noAccess");
+("capability.policy.mailnews.SOAPPropertyBagMutator.propertyBag", "noAccess");
+("capability.policy.mailnews.SOAPResponse.fault", "noAccess");
+("capability.policy.mailnews.WebServiceProxyFactory.createProxy", "noAccess");
+("capability.policy.mailnews.WebServiceProxyFactory.createProxyAsync", "noAccess");
+("capability.policy.mailnews.WebServiceProxyFactory.onError", "noAccess");
+("capability.policy.mailnews.WebServiceProxyFactory.onLoad", "noAccess");
+("capability.policy.mailnews.Window.blur", "noAccess");
+("capability.policy.mailnews.Window.focus", "noAccess");
+("capability.policy.mailnews.Window.innerHeight.set", "noAccess");
+("capability.policy.mailnews.Window.innerWidth.set", "noAccess");
+("capability.policy.mailnews.Window.moveBy", "noAccess");
+("capability.policy.mailnews.Window.moveTo", "noAccess");
+("capability.policy.mailnews.Window.name.set", "noAccess");
+("capability.policy.mailnews.Window.outerHeight.set", "noAccess");
+("capability.policy.mailnews.Window.outerWidth.set", "noAccess");
+("capability.policy.mailnews.Window.resizeBy", "noAccess");
+("capability.policy.mailnews.Window.resizeTo", "noAccess");
+("capability.policy.mailnews.Window.screenX.set", "noAccess");
+("capability.policy.mailnews.Window.screenY.set", "noAccess");
+("capability.policy.mailnews.Window.sizeToContent", "noAccess");
+("capability.policy.mailnews.WSDLLoader.load", "noAccess");
+("capability.policy.mailnews.WSDLLoader.loadAsync", "noAccess");
+("capability.policy.mailnews.WSDLLoader.onError", "noAccess");
+("capability.policy.mailnews.WSDLLoader.onLoad", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.abort", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.channel", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.getAllResponseHeaders", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.getInterface", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.getResponseHeader", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.onerror", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.onload", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.onreadystatechange", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.open", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.overrideMimeType", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.readyState", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.responseText", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.responseXML", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.send", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.setRequestHeader", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.status", "noAccess");
+("capability.policy.mailnews.XMLHttpRequest.statusText", "noAccess");
+("capability.policy.mailnews.XMLSerializer.serializeToStream", "noAccess");
+("capability.policy.mailnews.XMLSerializer.serializeToString", "noAccess");
+("clipboard.autocopy", false);
+("config.use_system_prefs", false);
+("config.use_system_prefs.accessibility", false);
+("converter.html2txt.header_strategy",  1);
+("converter.html2txt.structs",          true);
+("custtoolbar.personal_toolbar_folder", "");
+("dom.allow_scripts_to_close_windows"
+("dom.disable_image_src_set",           false);
+("dom.disable_open_click_delay"
+("dom.disable_open_during_load",                false);
+("dom.disable_open_during_load",              true);
+("dom.disable_window_flip"
+("dom.disable_window_move_resize"
+("dom.disable_window_open_feature.close",       false);
+("dom.disable_window_open_feature.directories", false);
+("dom.disable_window_open_feature.location",    false);
+("dom.disable_window_open_feature.location",  false);
+("dom.disable_window_open_feature.location",  true);
+("dom.disable_window_open_feature.menubar",     false);
+("dom.disable_window_open_feature.minimizable", false);
+("dom.disable_window_open_feature.personalbar", false);
+("dom.disable_window_open_feature.resizable",   false);
+("dom.disable_window_open_feature.resizable",   true);
+("dom.disable_window_open_feature.scrollbars",  false);
+("dom.disable_window_open_feature.status",      true);
+("dom.disable_window_open_feature.status",    true);
+("dom.disable_window_open_feature.titlebar",    false);
+("dom.disable_window_open_feature.toolbar",     false);
+("dom.disable_window_status_change",          true);
+("dom.disable_window_status_change",    false);
+("dom.event.contextmenu.enabled",       true);
+("dom.max_chrome_script_run_time", 20);
+("dom.max_script_run_time",
+("dom.max_script_run_time", 10);
+("dom.popup_allowed_events", "change click dblclick mouseup reset submit");
+("dom.popup_maximum",                           20);
+("dom.storage.enabled", true);
+("editor.css.default_length_unit",       "px");
+("editor.htmlWrapColumn", 72);
+("editor.positioning.offset",            0);
+("editor.quotesPreformatted",            false);
+("editor.resizing.preserve_ratio",       true);
+("editor.singleLine.pasteNewlines",     1);
+("editor.singleLine.pasteNewlines", 2);
+("editor.use_css",                       true);
+("editor.use_custom_colors", false);
+("extensions.blocklist.enabled", true);
+("extensions.blocklist.interval", 86400);
+("extensions.dss.enabled", false);
+("extensions.dss.switchPending", false);
+("extensions.getAddons.maxResults", 5);
+("extensions.getAddons.showPane", true);
+("extensions.getMoreExtensionsURL", "");
+("extensions.hideInstallButton", true);
+("extensions.ignoreMTimeChanges", false);
+("extensions.logging.enabled", false);
+("extensions.spellcheck.inline.max-misspellings", 500);
+("extensions.update.enabled", true);
+("extensions.update.interval", 86400);
+("font.
+("font.blacklist.underline_offset",
+("gecko.handlerService.allowRegisterFromDifferentHost", false);
+("general.autoScroll"
+("general.config.obscure_value", 13);
+("general.skins.selectedSkin"
+("general.smoothScroll"
+("general.startup.browser"
+("general.useragent.extra.firefox",
+("general.useragent.locale",
+("general.useragent.security",       "U");
+("general.useragent.vendorComment", "ax");
+("general.warnOnAboutConfig", true);
+("gfx.color_management.display_profile"
+("gfx.color_management.enabled"
+("gfx.use_text_smoothing_setting"
+("image.animation_mode"
+("images.dither"
+("ime.password.onBlur.dontCare",        false);
+("ime.password.onFocus.dontCare",       false);
+("inspector.
+("intl.
+("javascript.allow.mailnews",           false);
+("javascript.enabled",                  true);
+("javascript.options.relimit",          false);
+("javascript.options.showInConsole",          false);
+("javascript.options.strict",           false);
+("keyword.enabled",
+("keyword.URL", "http://www.google.com
+("keyword.URL", "http://www.google.com/search?ie=UTF-8&oe=utf-8&q=");
+("layout.css.report_errors", true);
+("layout.enable_japanese_specific_transform", false);
+("layout.frames.force_resizability", false);
+("layout.scrollbar.side", 0);
+("layout.selection.caret_style", 0);
+("layout.spellcheckDefault", 1);
+("layout.word_select.eat_space_to_next_word", false);
+("layout.word_select.eat_space_to_next_word", true);
+("layout.word_select.stop_at_punctuation", true);
+("middlemouse.
+("mousewheel.
+("network.auth.use-sspi", true);
+("network.autodial-helper.enabled", true);
+("network.automatic-ntlm-auth.allow-proxies", true);
+("network.automatic-ntlm-auth.trusted-uris", "");
+("network.cookie.alwaysAcceptSessionCookies", false);
+("network.cookie.cookieBehavior",       0);
+("network.cookie.cookieBehavior", 0);
+("network.cookie.denyRemovedCookies", false);
+("network.cookie.disableCookieForMailNews", true);
+("network.cookie.enableForCurrentSessionOnly", false);
+("network.cookie.lifetime.days",        90);
+("network.cookie.lifetimePolicy",       0);
+("network.cookie.p3p",                  "ffffaaaa");
+("network.cookie.p3plevel",             1); // 0=low, 1=medium, 2=high, 3=custom
+("network.cookie.prefsMigrated",        false);
+("network.dir.format", 2);
+("network.dns.disableIPv6", false);
+("network.dns.ipv4OnlyDomains", "");
+("network.dns.ipv4OnlyDomains", ".doubleclick.net");
+("network.enableIDN", true);
+("network.enablePad",                   false); // Allow client to do proxy autodiscovery
+("network.ftp.idleConnectionTimeout", 300);
+("network.hosts.nntp_server",           "news.mozilla.org");
+("network.hosts.pop_server",            "mail");
+("network.hosts.smtp_server",           "mail");
+("network.http.accept-encoding" ,"gzip,deflate");
+("network.http.accept.default", "text/html,application/xhtml+xml,application/xml;
+("network.http.accept.default", "text/xml,application/xml,application/xhtml+xml,text/html;
+("network.http.default-socket-type"
+("network.http.keep-alive"
+("network.http.keep-alive.timeout"
+("network.http.max-connections-per-server"
+("network.http.max-connections"
+("network.http.max-persistent-connections-per-proxy"
+("network.http.max-persistent-connections-per-server"
+("network.http.pipelining
+("network.http.proxy.keep-alive"
+("network.http.proxy.pipelining"
+("network.http.proxy.version"
+("network.http.redirection-limit"
+("network.http.request.max-start-delay"
+("network.http.sendRefererHeader"
+("network.http.sendSecureXSiteReferrer", true);
+("network.http.use-cache", true);
+("network.http.version", "1.1");
+("network.IDN.blacklist_chars",
+("network.IDN.whitelist.ac", true);
+("network.IDN.whitelist.ar", true);
+("network.IDN.whitelist.at", true);
+("network.IDN.whitelist.biz", true);
+("network.IDN.whitelist.br", true);
+("network.IDN.whitelist.cat", true);
+("network.IDN.whitelist.ch", true);
+("network.IDN.whitelist.cl", true);
+("network.IDN.whitelist.cn", true);
+("network.IDN.whitelist.de", true);
+("network.IDN.whitelist.dk", true);
+("network.IDN.whitelist.es", true);
+("network.IDN.whitelist.fi", true);
+("network.IDN.whitelist.gr", true);
+("network.IDN.whitelist.hu", true);
+("network.IDN.whitelist.info", true);
+("network.IDN.whitelist.io", true);
+("network.IDN.whitelist.ir", true);
+("network.IDN.whitelist.is", true);
+("network.IDN.whitelist.jp", true);
+("network.IDN.whitelist.kr", true);
+("network.IDN.whitelist.li", true);
+("network.IDN.whitelist.lt", true);
+("network.IDN.whitelist.museum", true);
+("network.IDN.whitelist.no", true);
+("network.IDN.whitelist.org", true);
+("network.IDN.whitelist.pl", true);
+("network.IDN.whitelist.pr", true);
+("network.IDN.whitelist.se", true);
+("network.IDN.whitelist.sh", true);
+("network.IDN.whitelist.th", true);
+("network.IDN.whitelist.tm", true);
+("network.IDN.whitelist.tw", true);
+("network.IDN.whitelist.vn", true);
+("network.IDN.whitelist.xn--0zwm56d", true);
+("network.IDN.whitelist.xn--11b5bs3a9aj6g", true);
+("network.IDN.whitelist.xn--80akhbyknj4f", true);
+("network.IDN.whitelist.xn--9t4b11yi5a", true);
+("network.IDN.whitelist.xn--deba0ad", true);
+("network.IDN.whitelist.xn--g6w251d", true);
+("network.IDN.whitelist.xn--hgbk6aj7f53bba", true);
+("network.IDN.whitelist.xn--hlcj6aya9esc7a", true);
+("network.IDN.whitelist.xn--jxalpdlp", true);
+("network.IDN.whitelist.xn--kgbechtv", true);
+("network.IDN.whitelist.xn--zckzah", true);
+("network.IDN_show_punycode", false);
+("network.image.warnAboutImages",
+("network.jar.open-unsafe-types", false);
+("network.negotiate-auth.allow-proxies", true);
+("network.negotiate-auth.delegation-uris", "");
+("network.negotiate-auth.gsslib", "");
+("network.negotiate-auth.trusted-uris", "");
+("network.negotiate-auth.using-native-gsslib", true);
+("network.ntlm.send-lm-response", false);
+("network.online"
+("network.prefetch-next"
+("network.protocol-handler.expose-all", true);
+("network.protocol-handler.expose.mailto", false);
+("network.protocol-handler.expose.news", false);
+("network.protocol-handler.expose.nntp", false);
+("network.protocol-handler.expose.snews", false);
+("network.protocol-handler.external-default", true);
+("network.protocol-handler.external.afp", false);
+("network.protocol-handler.external.data", false);
+("network.protocol-handler.external.disk", false);
+("network.protocol-handler.external.disks", false);
+("network.protocol-handler.external.hcp", false);
+("network.protocol-handler.external.javascript", false);
+("network.protocol-handler.external.mailto", true);
+("network.protocol-handler.external.moz-icon", false);
+("network.protocol-handler.external.ms-help", false);
+("network.protocol-handler.external.news", true);
+("network.protocol-handler.external.nntp", true);
+("network.protocol-handler.external.shell", false);
+("network.protocol-handler.external.snews", true);
+("network.protocol-handler.external.vbscript", false);
+("network.protocol-handler.external.vnd.ms.radio", false);
+("network.protocol-handler.warn-external-default", true);
+("network.protocol-handler.warn-external.itms", false);
+("network.protocol-handler.warn-external.mailto", false);
+("network.protocol-handler.warn-external.news", false);
+("network.protocol-handler.warn-external.nntp", false);
+("network.protocol-handler.warn-external.snews", false);
+("network.proxy.autoconfig_retry_interval_max"
+("network.proxy.autoconfig_retry_interval_min"
+("network.proxy.autoconfig_url"
+("network.proxy.failover_timeout"
+("network.proxy.ftp",                   "");
+("network.proxy.ftp_port",              0);
+("network.proxy.gopher",                "");
+("network.proxy.gopher_port",           0);
+("network.proxy.http",                  "");
+("network.proxy.http_port",             0);
+("network.proxy.no_proxies_on",         "localhost, 127.0.0.1");
+("network.proxy.share_proxy_settings",  false);
+("network.proxy.socks",                 "");
+("network.proxy.socks_port",            0);
+("network.proxy.socks_remote_dns",      false);
+("network.proxy.socks_version",         5);
+("network.proxy.ssl",                   "");
+("network.proxy.ssl_port",              0);
+("network.proxy.type",                  0);
+("network.standard-url.encode-query-utf8", false);
+("network.standard-url.encode-utf8",
+("network.standard-url.encode-utf8", true);
+("network.standard-url.escape-utf8", true);
+("nglayout.debug.enable_xbl_forms"
+("nglayout.enable_drag_images"
+("nglayout.events.dispatchLeftClickOnly"
+("offline-apps.quota.max"
+("offline-apps.quota.warn"
+("permissions.default.image",           1);
+("places.frecency.
+("plugin.default_plugin_disabled"
+("plugin.expose_full_path", false);
+("plugin.override_internal_types", false);
+("plugin.scan.Acrobat"
+("plugin.scan.plid.all"
+("plugin.scan.Quicktime"
+("plugin.scan.SunJRE"
+("plugin.scan.WindowsMediaPlayer"
+("plugins.hide_infobar_for_missing_plugin", false);
+("prefs.converted-to-utf8"
+("print.
+("privacy.item.
+("privacy.popups.disable_from_plugins", 2);
+("privacy.popups.firstTime",            true);
+("privacy.popups.policy",               1);
+("privacy.popups.showBrowserMessage",   true);
+("privacy.popups.usecustom",            true);
+("privacy.sanitize.promptOnSanitize", true);
+("privacy.sanitize.sanitizeOnShutdown", false);
+("profile.allow_automigration"
+("profile.confirm_automigration"
+("profile.manage_only_at_launch"
+("profile.migration_behavior"
+("profile.migration_directory"
+("profile.seconds_until_defunct"
+("roaming.default.files", "bookmarks.html,abook.mab,cookies.txt");
+("roaming.showInitialWarning", true);
+("security.ask_for_password"
+("security.checkloaduri"
+("security.classID.allowByDefault", false);
+("security.default_personal_cert",
+("security.default_personal_cert",   "Ask Every Time");
+("security.dialog_enable_delay"
+("security.directory",              "");
+("security.enable_java",                true);
+("security.enable_ssl2",             false);
+("security.enable_ssl2",             true);
+("security.enable_ssl3",             true);
+("security.enable_tls",		 true);
+("security.enable_tls_session_tickets", true);
+("security.fileuri.strict_origin_policy", true);
+("security.OCSP.enabled", 1);
+("security.OCSP.enabled",		0);
+("security.OCSP.require", false);
+("security.password_lifetime"
+("security.ssl2.des_64", false);
+("security.ssl2.des_64", true);
+("security.ssl2.des_ede3_192", false);
+("security.ssl2.des_ede3_192", true);
+("security.ssl2.rc2_128", false);
+("security.ssl2.rc2_128", true);
+("security.ssl2.rc2_40", false);
+("security.ssl2.rc2_40", true);
+("security.ssl2.rc4_128", false);
+("security.ssl2.rc4_128", true);
+("security.ssl2.rc4_40", false);
+("security.ssl2.rc4_40", true);
+("security.ssl3.dhe_dss_aes_128_sha", true);
+("security.ssl3.dhe_dss_aes_256_sha", true);
+("security.ssl3.dhe_dss_camellia_128_sha", true);
+("security.ssl3.dhe_dss_camellia_256_sha", true);
+("security.ssl3.dhe_dss_des_ede3_sha", true);
+("security.ssl3.dhe_dss_des_sha", false);
+("security.ssl3.dhe_dss_des_sha", true);
+("security.ssl3.dhe_rsa_aes_128_sha", true);
+("security.ssl3.dhe_rsa_aes_256_sha", true);
+("security.ssl3.dhe_rsa_camellia_128_sha", true);
+("security.ssl3.dhe_rsa_camellia_256_sha", true);
+("security.ssl3.dhe_rsa_des_ede3_sha", true);
+("security.ssl3.dhe_rsa_des_sha", false);
+("security.ssl3.dhe_rsa_des_sha", true);
+("security.ssl3.ecdh_ecdsa_aes_128_sha", true);
+("security.ssl3.ecdh_ecdsa_aes_256_sha", true);
+("security.ssl3.ecdh_ecdsa_des_ede3_sha", true);
+("security.ssl3.ecdh_ecdsa_null_sha", false);
+("security.ssl3.ecdh_ecdsa_rc4_128_sha", true);
+("security.ssl3.ecdh_rsa_aes_128_sha", true);
+("security.ssl3.ecdh_rsa_aes_256_sha", true);
+("security.ssl3.ecdh_rsa_des_ede3_sha", true);
+("security.ssl3.ecdh_rsa_null_sha", false);
+("security.ssl3.ecdh_rsa_rc4_128_sha", true);
+("security.ssl3.ecdhe_ecdsa_aes_128_sha", true);
+("security.ssl3.ecdhe_ecdsa_aes_256_sha", true);
+("security.ssl3.ecdhe_ecdsa_des_ede3_sha", true);
+("security.ssl3.ecdhe_ecdsa_null_sha", false);
+("security.ssl3.ecdhe_ecdsa_rc4_128_sha", true);
+("security.ssl3.ecdhe_rsa_aes_128_sha", true);
+("security.ssl3.ecdhe_rsa_aes_256_sha", true);
+("security.ssl3.ecdhe_rsa_des_ede3_sha", true);
+("security.ssl3.ecdhe_rsa_null_sha", false);
+("security.ssl3.ecdhe_rsa_rc4_128_sha", true);
+("security.ssl3.rsa_1024_des_cbc_sha", false);
+("security.ssl3.rsa_1024_des_cbc_sha", true);
+("security.ssl3.rsa_1024_rc4_56_sha", false);
+("security.ssl3.rsa_1024_rc4_56_sha", true);
+("security.ssl3.rsa_aes_128_sha", true);
+("security.ssl3.rsa_aes_256_sha", true);
+("security.ssl3.rsa_camellia_128_sha", true);
+("security.ssl3.rsa_camellia_256_sha", true);
+("security.ssl3.rsa_des_ede3_sha", true);
+("security.ssl3.rsa_des_sha", false);
+("security.ssl3.rsa_des_sha", true);
+("security.ssl3.rsa_fips_des_ede3_sha", true);
+("security.ssl3.rsa_fips_des_sha", false);
+("security.ssl3.rsa_fips_des_sha", true);
+("security.ssl3.rsa_null_md5", false);
+("security.ssl3.rsa_null_sha", false);
+("security.ssl3.rsa_rc2_40_md5", false);
+("security.ssl3.rsa_rc2_40_md5", true);
+("security.ssl3.rsa_rc4_128_md5", true);
+("security.ssl3.rsa_rc4_128_sha", true);
+("security.ssl3.rsa_rc4_40_md5", false);
+("security.ssl3.rsa_rc4_40_md5", true);
+("security.ui.enable",    true);
+("security.warn_entering_secure",    false);
+("security.warn_entering_secure",    true);
+("security.warn_entering_secure.show_once", false);
+("security.warn_entering_secure.show_once", true);
+("security.warn_entering_weak",      true);
+("security.warn_entering_weak.show_once", true);
+("security.warn_leaving_secure",     false);
+("security.warn_leaving_secure",     true);
+("security.warn_leaving_secure.show_once", false);
+("security.warn_leaving_secure.show_once", true);
+("security.warn_submit_insecure",    false);
+("security.warn_submit_insecure",    true);
+("security.warn_submit_insecure.show_once", false);
+("security.warn_submit_insecure.show_once", true);
+("security.warn_viewing_mixed",      true);
+("security.warn_viewing_mixed.show_once", true);
+("security.xpconnect.activex.global.hosting_flags", 9);
+("security.xpconnect.plugin.unrestricted", true);
+("signed.applets.codebase_principal_support", false);
+("signon.autofillForms"
+("signon.debug"
+("signon.expireMasterPassword"
+("signon.rememberSignons"
+("signon.SignonFileName",               "signons.txt");
+("signon.SignonFileName", "signons.txt")
+("signon.SignonFileName2",              "signons2.txt");
+("signon.SignonFileName3",              "signons3.txt");
+("slider.snapMultiplier", 0);
+("slider.snapMultiplier", 6);
+("svg.enabled", true);
+("toolkit.autocomplete.richBoundaryCutoff"
+("toolkit.scrollbox.clickToScroll.scrollDelay"
+("toolkit.scrollbox.scrollIncrement"
+("toolkit.scrollbox.smoothScroll"
+("toolkit.zoomManager.zoomValues"
+("ui.key.
+("ui.scrollToClick"
+("urlclassifier.alternate_error_page", "blocked");
+("urlclassifier.confirm-age", 2700);
+("urlclassifier.gethashnoise", 4);
+("urlclassifier.gethashtables", "goog-phish-shavar,goog-malware-shavar");
+("urlclassifier.updatecachemax"
+("view_source.
+("viewmanager.do_doublebuffering", true);
+("xpinstall.dialog.progress.
+("xpinstall.dialog.progress.type.chrome", "Extension:Manager");
+("xpinstall.dialog.progress.type.skin", "Extension:Manager");
+("xpinstall.enabled",       true);
+("xpinstall.whitelist.add", "update.mozilla.org");
+("xpinstall.whitelist.add.103", "addons.mozilla.org");
+("xpinstall.whitelist.required", true);
+("zoom.maxPercent"
+("zoom.minPercent"
+, "application/vnd.mozilla.maybe.feed");
+, "http://safebrowsing.clients.google.com/
+.mozilla.com/
+.mozilla.org/
+;chrome://branding/content/searchconfig.properties
+chrome://browser-region/locale/region.properties
+chrome://browser/content/hiddenWindow.xul"
+chrome://mozapps/content/extensions/extensions.xul
+chrome://mozapps/content/xpinstall/xpinstallConfirm.xul
+chrome://mozapps/locale/extensions/extensions.properties
+chrome://navigator-region/locale/region.properties
+resource:/browserconfig.properties
+("browser.ctrlTab.
+("browser.gesture.
+("browser.search.cache.enabled",
+("browser.urlbar.match.title"
+("browser.urlbar.match.url"
+("browser.urlbar.restrict.history"
+("browser.urlbar.restrict.tag"
+("browser.urlbar.search.sources"
+("gfx.
+("image.cache.
+("javascript.options.jit.chrome"
+("javascript.options.jit.content"
+("layout.css.visited_links_enabled
+("privacy.sanitize.timeSpan",
+("ui.panel.default_level_parent",
+("media.
+("browser.urlbar.
+("capability.policy.mailnews.
+("dom.storage.default_quota", 
+("content.sink.event_probe_rate", 3);
+("network.http.prompt-temp-redirect", true);
+("layout.css.
+("gestures.
+("dom.max_chrome_script_run_time", 
+("network.tcp.sendbuffer", 
+("geo.enabled", 
+("security.remember_cert_checkbox_
+("browser.search.param.yahoo-fr", "moz35");
+("browser.search.param.yahoo-fr-cjkt", "moz35");
+("extensions.blocklist.level", 2);
+("browser.urlbar.
+("privacy.
+("browser.ssl_override_behavior", 2);
+("security.alternate_certificate_error_page", "certerror");
+("browser.privatebrowsing.autostart", 
+("browser.privatebrowsing.dont_prompt_on_enter", false);
+("geo.wifi.uri", 
+("security.ssl3.rsa_seed_sha", true);
+("ui.use_native_popup_windows",
+("browser.enable_click_image_resizing",
+("accessibility.browsewithcaret_shortcut.enabled",
+("javascript.options.mem.high_water_mark",
+("javascript.options.mem.gc_frequency",
+("ui.trackpoint_hack.enabled",
+("browser.formfill.debug",
+("browser.formfill.agedWeight",
+("browser.formfill.bucketSize",
+("browser.formfill.maxTimeGroupings",
+("browser.formfill.timeGroupingSize",
+("browser.formfill.boundaryWeight",
+("browser.formfill.prefixWeight",
+("html5.enable",
+("app.update.download.backgroundInterval",
+("app.update.url.manual", "http://www.firefox.com");
+("browser.search.param.yahoo-fr-ja",
+("xpinstall.whitelist.add", "addons.mozilla.org");
+("xpinstall.whitelist.add.36", "getpersonas.com");
+("lightweightThemes.update.enabled",
+("browser.allTabs.previews",
+("plugins.hide_infobar_for_outdated_plugin",
+("toolbar.customization.usesheet",
+("browser.taskbar.previews.enable",
+("browser.taskbar.previews.max",
+("browser.taskbar.previews.cachetime",
+("ui.use_native_colors
+("network.IDN.whitelist.lu", true);
+("network.IDN.whitelist.nu", true);
+("network.IDN.whitelist.nz", true);
+("network.IDN.whitelist.xn--mgbaam7a8h", true); 
+("network.IDN.whitelist.xn--mgberp4a5d4ar", true); 
+("network.IDN.whitelist.xn--p1ai", true);
+("network.IDN.whitelist.xn--mgbayh7gpa", true);
+("network.IDN.whitelist.tel", true);
+("network.auth.force-generic-ntlm
+("network.proxy.type",                  5);
+("network.buffer.cache.count", 24);
+("network.buffer.cache.size",  
+("dom.ipc.plugins.timeoutSecs"
+("svg.smil.enabled"
+("accelerometer.enabled
+("security.ssl.allow_unrestricted_renego_everywhere__temporarily_available_pref", true);
+("security.ssl.renego_unrestricted_hosts
+("security.ssl.treat_unsafe_negotiation_as_broken", false);
+("security.ssl.require_safe_negotiation",  false);
+("extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.
+("plugins.update.notifyUser"
+("dom.ipc.plugins.enabled.

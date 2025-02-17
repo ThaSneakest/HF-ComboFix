@@ -1,0 +1,10 @@
+DHCP
+eventlog
+AudioSrv
+LmHosts
+wscsvc
+p2pimsvc
+PNRPSvc
+p2psvc
+WPCSvc
+PnrpAutoReg
