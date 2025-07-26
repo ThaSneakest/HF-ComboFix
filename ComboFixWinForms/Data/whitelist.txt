@@ -1,0 +1,95 @@
+# ComboFix Whitelist - Safe files and processes
+# These items are considered safe and should not be flagged as threats
+
+[SAFE_PROCESSES]
+System
+svchost.exe
+csrss.exe
+winlogon.exe
+explorer.exe
+lsass.exe
+services.exe
+smss.exe
+taskhost.exe
+dwm.exe
+conhost.exe
+audiodg.exe
+spoolsv.exe
+wininit.exe
+
+[SAFE_AUTOSTART_ENTRIES]
+%SystemRoot%\system32\userinit.exe
+%SystemRoot%\Explorer.exe
+%SystemRoot%\system32\ctfmon.exe
+%ProgramFiles%\Windows Defender\MSASCuiL.exe
+%ProgramFiles%\Common Files\Microsoft Shared\Windows Live\WLIDSVC.EXE
+%ProgramFiles%\Microsoft Security Client\msseces.exe
+
+[SAFE_REGISTRY_VALUES]
+explorer.exe
+userinit.exe
+ctfmon.exe
+taskmgr.exe
+regedit.exe
+msconfig.exe
+notepad.exe
+
+[SAFE_DIRECTORIES]
+%SystemRoot%\System32
+%SystemRoot%\SysWOW64
+%ProgramFiles%
+%ProgramFiles(x86)%
+%SystemRoot%\Microsoft.NET
+%SystemRoot%\assembly
+%SystemRoot%\WinSxS
+
+[SAFE_FILE_HASHES]
+# Common Windows system file hashes (MD5)
+# These would be populated with actual system file hashes
+# explorer.exe = D41D8CD98F00B204E9800998ECF8427E
+# notepad.exe = E3B0C44298FC1C149AFBF4C8996FB924
+# svchost.exe = DA39A3EE5E6B4B0D3255BFEF95601890
+
+[LEGITIMATE_SOFTWARE]
+Microsoft Corporation
+Adobe Systems Incorporated
+Google Inc.
+Mozilla Corporation
+Apple Inc.
+Intel Corporation
+NVIDIA Corporation
+Symantec Corporation
+McAfee, Inc.
+Trend Micro Inc.
+
+[SAFE_EXTENSIONS]
+.dll
+.sys
+.drv
+.ocx
+.cpl
+.msc
+.mui
+.cat
+.inf
+.hlp
+
+[BROWSER_SAFE_PATHS]
+%ProgramFiles%\Internet Explorer
+%ProgramFiles%\Mozilla Firefox
+%ProgramFiles%\Google\Chrome
+%ProgramFiles%\Microsoft\Edge
+%LocalAppData%\Google\Chrome
+%AppData%\Mozilla\Firefox
+
+[ANTIVIRUS_PROCESSES]
+avgui.exe
+avguard.exe
+avcenter.exe
+avp.exe
+kavfs.exe
+mbam.exe
+msmpeng.exe
+msseces.exe
+wrsa.exe
+ccapp.exe

@@ -1,0 +1,6 @@
+/home/runner/work/HF-ComboFix/HF-ComboFix/ComboFixWinForms/obj/Debug/net8.0/ComboFixWinForms.csproj.AssemblyReference.cache
+/home/runner/work/HF-ComboFix/HF-ComboFix/ComboFixWinForms/obj/Debug/net8.0/ComboFixWinForms.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/HF-ComboFix/HF-ComboFix/ComboFixWinForms/obj/Debug/net8.0/ComboFixWinForms.AssemblyInfoInputs.cache
+/home/runner/work/HF-ComboFix/HF-ComboFix/ComboFixWinForms/obj/Debug/net8.0/ComboFixWinForms.AssemblyInfo.cs
+/home/runner/work/HF-ComboFix/HF-ComboFix/ComboFixWinForms/obj/Debug/net8.0/ComboFixWinForms.csproj.CoreCompileInputs.cache
+/home/runner/work/HF-ComboFix/HF-ComboFix/ComboFixWinForms/obj/Debug/net8.0/ComboFixWinForms.sourcelink.json

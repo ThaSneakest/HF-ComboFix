@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyTitle>ComboFix - Malware Removal Tool (Console Demo)</AssemblyTitle>
+    <AssemblyDescription>Windows Malware Removal Tool converted to C# - Console Demo</AssemblyDescription>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Company>HF-ComboFix</Company>
+    <Product>ComboFix Console Demo</Product>
+    <Copyright>Copyright © 2024</Copyright>
+    <StartupObject>ComboFixWinForms.ProgramConsole</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Forms\**" />
+    <Compile Remove="Utils\ProcessManager.cs" />
+    <Compile Remove="Utils\RegistryManager.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+</Project>
